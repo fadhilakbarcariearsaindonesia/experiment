@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "last_updated": "2026-05-08",
+    "author": "Fadhil Akbar Cariearsa",
+    "license": "MIT",
+    "category": "Japanese Fictional Names",
+    "description": "A 100% fictional and copyright-free Japanese naming dataset for universal use."
+  },
+  "people": {
+    "full_names": [
+      "Aoi Kirana", "Ren Asuka", "Mio Takara", "Riku Hayami", "Yuna Kagari", "Kai Morino",
+      "Sora Ichinose", "Haru Tanaka", "Jin Kazuraba", "Kaito Saito", "Rina Matsui", "Kenjiro Mori",
+      "Mizuki Ayase", "Takeshi Kudo", "Rei Hoshikawa", "Shizuka Minamoto", "Daiki Aomine", "Kanna Suzuki",
+      "Hiroto Takahashi", "Natsumi Ito", "Ryosuke Watanabe", "Akane Kobayashi", "Tatsuya Kato", "Emi Yoshida"
+    ],
+    "first_names": [
+      "Akira", "Haruto", "Souta", "Yuma", "Rin", "Takumi", "Naoki", "Daichi", "Kenta", "Shin",
+      "Kaori", "Yui", "Sakura", "Aoi", "Misaki", "Nanami", "Hikari", "Miyu", "Reina", "Kana",
+      "Ren", "Kazuki", "Riku", "Itsuki", "Shota", "Sora", "Yuuto", "Ryota", "Tsubasa", "Keita",
+      "Hinata", "Koharu", "Yuna", "Riko", "Natsuki", "Ayaka", "Nozomi", "Mao", "Haruka", "Kanon",
+      "Chisato", "Megumi", "Asuka", "Tomoya", "Masaki", "Kaito", "Shiori", "Eri", "Manami", "Mika",
+      "Junpei", "Ryo", "Tatsuya", "Kenji", "Sena", "Moe", "Anzu", "Yukari", "Yoshiki", "Taiga",
+      "Mio", "Suzune", "Rena", "Saki", "Airi", "Yoshino", "Reo", "Rui", "Makoto", "Fumika",
+      "Haru", "Minato", "Shohei", "Kousei", "Kouki", "Ryusei", "Hayato", "Yuusei", "Atsushi", "Kouhei"
+    ],
+    "last_names": [
+      "Sakamoto", "Tachibana", "Aoyama", "Kurosawa", "Morioka", "Ishikawa", "Kanzaki", "Fujimoto", "Hoshino", "Shirakawa",
+      "Naruse", "Kirishima", "Amamiya", "Tsukishiro", "Matsuda", "Kojima", "Mizuno", "Hayashida", "Nishimura", "Okamoto",
+      "Yamashita", "Nakajima", "Shibata", "Kobayashi", "Sugawara", "Asano", "Uehara", "Hasegawa", "Akamatsu", "Kitagawa",
+      "Inoue", "Kawasaki", "Tominaga", "Yagami", "Odagiri", "Kuroki", "Sasaki", "Igarashi", "Sakurai", "Arakawa",
+      "Matsumoto", "Yamamoto", "Murakami", "Ogawa", "Saitou", "Kinoshita", "Nakata", "Andou", "Watanabe", "Fukuda",
+      "Shimada", "Hamada", "Miura", "Arai", "Takeuchi", "Miyazaki", "Seki", "Uchida", "Kasai", "Ishii",
+      "Naganuma", "Takeda", "Endou", "Morita", "Yokoyama", "Kurata", "Hirano", "Hosokawa", "Kuwahara", "Terashima",
+      "Kikuchi", "Kawaguchi", "Tamura", "Shinohara", "Kawamata", "Onodera", "Murai", "Furuya", "Abe", "Nishino"
+    ]
+  },
+  "corporations": {
+    "name_components": {
+      "prefixes": [
+        "Astra", "Kitsune", "Mirai", "Kaze", "Akari", "Yoru", "Shiro", "Sora", "Ryu", "Nami", 
+        "Hoshi", "Aoi", "Kumo", "Suzu", "Rei", "Tora", "Mizu", "Kage", "Nova", "Kairo",
+        "Haru", "Aki", "Fuyu", "Natsu", "Gin", "Kin", "Zen", "Neo", "Cyber", "Aero", 
+        "Titan", "Orbis", "Luna", "Sol", "Gaia", "Chrono", "Myth", "Rune", "Byte", "Core",
+        "Bit", "Pixel", "Vector", "Apex", "Zenith", "Prism", "Echo", "Void", "Ignis", "Terra"
+      ],
+      "suffixes": [
+        "Frame", "Works", "Pictures", "Motion", "Atelier", "Factory", "Studio", "Lab", "House", "Arts", 
+        "Vision", "Spark", "Forge", "Arc", "Media", "Labs", "Verse", "Craft", "Design", "Logic",
+        "Flow", "Point", "Base", "Vault", "Cell", "Link", "Sync", "Grid", "Cloud", "Front"
+      ],
+      "organization_types": [
+        "Collective", "Guild", "Division", "Systems", "Prime", "Dynamics", "Global", "Network", 
+        "Group", "Corp", "Agency", "Unit", "Syndicate", "Consortium", "Alliance"
+      ]
+    },
+    "standalone_brands": [
+      "SHUKARI", "MAPPEX", "JPNIME", "KAMINAMETA", "VINIX", "ANIZEN", "TOKARU", "ZENTRA", 
+      "YOKAIX", "SHINOBIX", "KAIJUZEN", "RONINOS", "GENSIS", "VEXEL", "MONOQ", "KYOTEX", "OSAKANET"
+    ],
+    "agencies": [
+      "Astra Talent", "Mirai Cast", "Kumo Agency", "Sora Perform", "Hoshi Actors", "Nova Stage",
+      "Kaze Management", "Akari Elite", "Ryu Productions", "Nami Talents", "Zenith Casting", "Iconic Japan"
+    ],
+    "production_houses": [
+      "Aurora House", "Kage Pictures", "Nami Cinema", "Rei Motion", "Tora Visual", "Mizu Films",
+      "Kairo Media", "Nova Cine", "Kitsune TV", "Mirai Stream", "Hyper Motion", "Retro Vision"
+    ]
+  },
+  "media": {
+    "titles": [
+      "Sennen Yoru", "Akatsuki Yume", "Byakuya Kage", "Tsuki Hikari", "Hoshi Kizuna", "Kokoro Ame",
+      "Yoru Sakura", "Mugen Michi", "Seishun Namida", "Mirai Kaze", "Kuroi Tsuki", "Aoi Hoshi",
+      "Silent Monogatari", "Crimson Kizuna", "Golden Ronin", "Shadow Sakura", "Midnight Yokai",
+      "Neon Shinobi", "Cyber Katana", "Silver Ronin", "Tokyo Ghost", "Osaka Rain", "Kyoto Wind",
+      "Eternal Zen", "Lost Spirit", "Void Walker", "Pixel Samurai", "Aero Miko", "Solar Kami",
+      "Lunar Onmyoji", "Iron Bushido", "Crystal Kimono", "Digital Haiku", "Techno Matsuri"
+    ]
+  }
+}
