@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "last_updated": "2026-05-08",
     "author": "Fadhil Akbar Cariearsa",
     "license": "MIT",
@@ -11,8 +11,13 @@
     "full_names": [
       "Aoi Kirana", "Ren Asuka", "Mio Takara", "Riku Hayami", "Yuna Kagari", "Kai Morino",
       "Sora Ichinose", "Haru Tanaka", "Jin Kazuraba", "Kaito Saito", "Rina Matsui", "Kenjiro Mori",
-      "Mizuki Ayase", "Takeshi Kudo", "Rei Hoshikawa", "Shizuka Minamoto", "Daiki Aomine", "Kanna Suzuki",
-      "Hiroto Takahashi", "Natsumi Ito", "Ryosuke Watanabe", "Akane Kobayashi", "Tatsuya Kato", "Emi Yoshida"
+      "Mizuki Ayase", "Takeshi Kudo", "Rei Hoshikawa", "Shizuka Minamoto", "Kanna Suzuki",
+      "Hiroto Takahashi", "Natsumi Ito", "Ryosuke Watanabe", "Akane Kobayashi", "Tatsuya Kato", "Emi Yoshida",
+      "Yuto Shinguji", "Nanami Toujou", "Hiyori Iki", "Satoshi Fujinuma", "Kyoka Izumi",
+      "Ryohei Arisu", "Kenma Katsura", "Kotaro Inugami", "Atsumu Sakurai", "Shinsuke Izumi",
+      "Suji Hanari", "Ryusei Oda", "Meyrin Takeda", "Soma Arisato", "Graham Himura", "Nagisa Shiota",
+      "Kyohei Kurosaki", "Mari Kasumi", "Tatsuo Oshima", "Yuriko Chiba", "Sadao Maejima", "Rui Kaneko",
+      "Minato Namiki", "Saki Izumi", "Fumika Sugiyama", "Kosei Miyake", "Eri Sawamura", "Kouki Terasaki"
     ],
     "first_names": [
       "Akira", "Haruto", "Souta", "Yuma", "Rin", "Takumi", "Naoki", "Daichi", "Kenta", "Shin",
@@ -22,7 +27,10 @@
       "Chisato", "Megumi", "Asuka", "Tomoya", "Masaki", "Kaito", "Shiori", "Eri", "Manami", "Mika",
       "Junpei", "Ryo", "Tatsuya", "Kenji", "Sena", "Moe", "Anzu", "Yukari", "Yoshiki", "Taiga",
       "Mio", "Suzune", "Rena", "Saki", "Airi", "Yoshino", "Reo", "Rui", "Makoto", "Fumika",
-      "Haru", "Minato", "Shohei", "Kousei", "Kouki", "Ryusei", "Hayato", "Yuusei", "Atsushi", "Kouhei"
+      "Haru", "Minato", "Shohei", "Kousei", "Kouki", "Ryusei", "Hayato", "Yuusei", "Atsushi", "Kouhei",
+      "Eito", "Gaku", "Hokuto", "Ibuki", "Jin", "Kai", "Renji", "Nagi", "Ouga", "Raiga",
+      "Chihiro", "Fumi", "Gen", "Hideki", "Ichiro", "Jiro", "Kyo", "Masa", "Nori", "Osamu",
+      "Riki", "Sadao", "Taro", "Ume", "Waka", "Yasu", "Hajime", "Kyoichi"
     ],
     "last_names": [
       "Sakamoto", "Tachibana", "Aoyama", "Kurosawa", "Morioka", "Ishikawa", "Kanzaki", "Fujimoto", "Hoshino", "Shirakawa",
@@ -32,7 +40,9 @@
       "Matsumoto", "Yamamoto", "Murakami", "Ogawa", "Saitou", "Kinoshita", "Nakata", "Andou", "Watanabe", "Fukuda",
       "Shimada", "Hamada", "Miura", "Arai", "Takeuchi", "Miyazaki", "Seki", "Uchida", "Kasai", "Ishii",
       "Naganuma", "Takeda", "Endou", "Morita", "Yokoyama", "Kurata", "Hirano", "Hosokawa", "Kuwahara", "Terashima",
-      "Kikuchi", "Kawaguchi", "Tamura", "Shinohara", "Kawamata", "Onodera", "Murai", "Furuya", "Abe", "Nishino"
+      "Kikuchi", "Kawaguchi", "Tamura", "Shinohara", "Kawamata", "Onodera", "Murai", "Furuya", "Abe", "Nishino",
+      "Iwasaki", "Ono", "Kameda", "Saeki", "Muroi", "Otani", "Miyamoto", "Maehara", "Toyama", "Kobori",
+      "Ueda", "Imai", "Okada", "Fujita", "Sano", "Noguchi", "Kudo", "Kawahara", "Hashimoto", "Yoshida"
     ]
   },
   "corporations": {
@@ -41,44 +51,54 @@
         "Astra", "Kitsune", "Mirai", "Kaze", "Akari", "Yoru", "Shiro", "Sora", "Ryu", "Nami", 
         "Hoshi", "Aoi", "Kumo", "Suzu", "Rei", "Tora", "Mizu", "Kage", "Nova", "Kairo",
         "Haru", "Aki", "Fuyu", "Natsu", "Gin", "Kin", "Zen", "Neo", "Cyber", "Aero", 
-        "Titan", "Orbis", "Luna", "Sol", "Gaia", "Chrono", "Myth", "Rune", "Byte", "Core",
-        "Bit", "Pixel", "Vector", "Apex", "Zenith", "Prism", "Echo", "Void", "Ignis", "Terra",
-        "Tsuki", "Taiyo", "Kami", "Oni", "Tengu", "Sakura", "Umi", "Yama", "Mori", "Kawa", 
-        "Hono", "Kori", "Hikari", "Yami", "Chikara", "Inazuma", "Arashi", "Niji", "Suna", "Iwa", 
-        "Hagane", "Kusa", "Mura", "Machi", "Kuni", "Sekai", "Uchuu", "Ginga", "Kometto", "Quantum", 
-        "Nexus", "Synth", "Vertex", "Polygon", "Fractal", "Helix", "Voxel", "Cipher", "Matrix", 
-        "Flux", "Ion", "Proton", "Quark", "Kinetic", "Static", "Neural", "Synapse", "Omni", "Meta", 
-        "Ultra", "Hyper", "Macro", "Micro", "Nano", "Giga", "Tera", "Astro", "Stellar", "Cosmic", 
-        "Astral", "Ethereal", "Phantom", "Spectral", "Neon", "Chrome", "Cobalt", "Crimson", "Azure", 
-        "Jade", "Onyx", "Quartz", "Crystal", "Diamond"
+        "Titan", "Orbis", "Luna", "Sol", "Gaia", "Chrono", "Myth", "Rune", "Pixel", "Vector", 
+        "Apex", "Zenith", "Prism", "Echo", "Void", "Ignis", "Terra", "Tsuki", "Taiyo", "Kami", 
+        "Oni", "Tengu", "Sakura", "Umi", "Yama", "Mori", "Kawa", "Hikari", "Yami", "Chikara", 
+        "Inazuma", "Arashi", "Niji", "Hagane", "Sekai", "Uchuu", "Ginga", "Quantum", "Nexus", 
+        "Synth", "Vertex", "Fractal", "Helix", "Voxel", "Cipher", "Matrix", "Flux", "Ion", 
+        "Neural", "Synapse", "Omni", "Meta", "Ultra", "Hyper", "Macro", "Micro", "Nano", 
+        "Astro", "Stellar", "Cosmic", "Astral", "Ethereal", "Neon", "Chrome", "Cobalt", 
+        "Crimson", "Azure", "Jade", "Onyx", "Quartz", "Crystal", "Plasma", "Gravity", "Sonic", 
+        "Lumina", "Nebula", "Pulsar", "Quasar", "Orbit", "Valiant", "Radiant", "Obscura", 
+        "Atmosphere", "Borealis", "Aurora", "Eclipse", "Solstice", "Equinox", "Aether", 
+        "Sovereign", "Legacy", "Origin", "Catalyst", "Alpha", "Omega", "Sigma", "Delta", 
+        "Crest", "Peak", "Summit", "Ridge", "Basin", "Canyon", "Plateau", "Tundra", "Steppe", 
+        "Monolith", "Obelisk", "Arcane", "Enigma", "Paradox", "Infinity", "Horizon"
       ],
       "suffixes": [
         "Frame", "Works", "Pictures", "Motion", "Atelier", "Factory", "Studio", "Lab", "House", "Arts", 
         "Vision", "Spark", "Forge", "Arc", "Media", "Labs", "Verse", "Craft", "Design", "Logic",
-        "Flow", "Point", "Base", "Vault", "Cell", "Link", "Sync", "Grid", "Cloud", "Front",
-        "Hub", "Sphere", "Node", "Network", "System", "Engine", "Interactive", "Digital", "Virtuality", 
-        "Reality", "Dimensions", "Horizons", "Frontier", "Concepts", "Solutions", "Innovations", 
-        "Ventures", "Creations", "Productions", "Entertainment", "Visuals", "Sound", "Audio", "Acoustics", 
-        "Frequency", "Wave", "Spectrum", "Pulse", "Beat", "Rhythm", "Scope", "Lens", "Focus", "Perspective", 
-        "Canvas", "Palette", "Blueprint", "Schema", "Draft", "Render", "Compile", "Code", "Script", 
-        "Data", "Stream", "Broadcast", "Transmission"
+        "Flow", "Point", "Base", "Vault", "Link", "Sync", "Grid", "Cloud", "Front", "Hub", 
+        "Sphere", "Node", "Network", "System", "Engine", "Interactive", "Digital", "Dimensions", 
+        "Horizons", "Frontier", "Concepts", "Solutions", "Innovations", "Ventures", "Creations", 
+        "Productions", "Visuals", "Sound", "Acoustics", "Frequency", "Wave", "Spectrum", "Pulse", 
+        "Rhythm", "Scope", "Lens", "Focus", "Perspective", "Canvas", "Palette", "Blueprint", 
+        "Schema", "Draft", "Render", "Compile", "Code", "Script", "Data", "Stream", "Broadcast", 
+        "Transmission", "Protocol", "Gateway", "Signal", "Orbit", "Infrastructure", "Architecture", 
+        "Foundation", "Pipeline", "Repository", "Module", "Framework", "Interface", "Platform",
+        "Analytics", "Intelligence", "Metrics", "Core", "Nexus", "Buffer", "Array", "Cluster"
       ],
       "organization_types": [
         "Collective", "Guild", "Division", "Systems", "Prime", "Dynamics", "Global", "Network", 
-        "Group", "Corp", "Agency", "Unit", "Syndicate", "Consortium", "Alliance"
+        "Group", "Corp", "Agency", "Unit", "Syndicate", "Consortium", "Alliance", "Foundation", 
+        "Society", "Institute", "Council", "Bureau", "Federation", "League", "Trust", "Union"
       ]
     },
     "standalone_brands": [
       "SHUKARI", "MAPPEX", "JPNIME", "KAMINAMETA", "VINIX", "ANIZEN", "TOKARU", "ZENTRA", 
-      "YOKAIX", "SHINOBIX", "KAIJUZEN", "RONINOS", "GENSIS", "VEXEL", "MONOQ", "KYOTEX", "OSAKANET"
+      "YOKAIX", "SHINOBIX", "KAIJUZEN", "RONINOS", "GENSIS", "VEXEL", "MONOQ", "KYOTEX", "OSAKANET",
+      "NIVANA", "AZUREA", "XENON", "KRYPTON", "ECHOIC", "VORTEXA", "IZANAGI", "AMATERA", "SUSANO",
+      "ORIONA", "POLARIS", "VEGAMA", "SIRUX", "ANTARIS", "RIGELX"
     ],
     "agencies": [
       "Astra Talent", "Mirai Cast", "Kumo Agency", "Sora Perform", "Hoshi Actors", "Nova Stage",
-      "Kaze Management", "Akari Elite", "Ryu Productions", "Nami Talents", "Zenith Casting", "Iconic Japan"
+      "Kaze Management", "Akari Elite", "Ryu Productions", "Nami Talents", "Zenith Casting", "Iconic Japan",
+      "Lumina Talent", "Vertex Agency", "Gaia Artists", "Nexus Performers", "Ether Management"
     ],
     "production_houses": [
       "Aurora House", "Kage Pictures", "Nami Cinema", "Rei Motion", "Tora Visual", "Mizu Films",
-      "Kairo Media", "Nova Cine", "Kitsune TV", "Mirai Stream", "Hyper Motion", "Retro Vision"
+      "Kairo Media", "Nova Cine", "Kitsune TV", "Mirai Stream", "Hyper Motion", "Retro Vision",
+      "Stellar Films", "Cosmic Visuals", "Quantum Cinema", "Ethereal Motion", "Infinity House"
     ]
   },
   "media": {
@@ -88,7 +108,9 @@
       "Silent Monogatari", "Crimson Kizuna", "Golden Ronin", "Shadow Sakura", "Midnight Yokai",
       "Neon Shinobi", "Cyber Katana", "Silver Ronin", "Tokyo Ghost", "Osaka Rain", "Kyoto Wind",
       "Eternal Zen", "Lost Spirit", "Void Walker", "Pixel Samurai", "Aero Miko", "Solar Kami",
-      "Lunar Onmyoji", "Iron Bushido", "Crystal Kimono", "Digital Haiku", "Techno Matsuri"
+      "Lunar Onmyoji", "Iron Bushido", "Crystal Kimono", "Digital Haiku", "Techno Matsuri",
+      "Plasma Shogun", "Gravity Geisha", "Sonic Sumo", "Lumina Lantern", "Quantum Koto",
+      "Stellar Sake", "Cosmic Crane", "Ethereal Edo", "Infinity Inari", "Nova Ninja"
     ]
   }
 }
