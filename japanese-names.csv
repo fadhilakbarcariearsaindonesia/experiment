@@ -1,5 +1,5 @@
 Key,Value
-metadata.version,2.3.0
+metadata.version,2.3.1
 metadata.last_updated,2026-05-11
 metadata.author,Fadhil Akbar Cariearsa
 metadata.license,MIT
@@ -1014,6 +1014,7 @@ people.full_names,Yoshiaki Takeuchi
 people.full_names,Yoshiaki Yamamoto
 people.full_names,Yoshie Yamanaka
 people.full_names,Yoshikazu Yamane
+people.full_names,Yoshiki Tanaka
 people.full_names,Yoshiko Tamura
 people.full_names,Yoshiko Yamaoka
 people.full_names,Yoshinori Yamasaki
@@ -1108,6 +1109,9 @@ people.full_names,Zenko Takahashi
 people.full_names,Zenta Goto
 people.full_names,Zenta Okamoto
 people.full_names,Zenzo Fukuda
+people.full_names,Kairi Hoshino
+people.full_names,Misora Kanzaki
+people.full_names,Touma Kamijo
 people.first_names,Ai
 people.first_names,Aika
 people.first_names,Aiko
@@ -1593,6 +1597,9 @@ people.first_names,Zenjiro
 people.first_names,Zenko
 people.first_names,Zenta
 people.first_names,Zenzai
+people.first_names,Kairi
+people.first_names,Misora
+people.first_names,Touma
 people.last_names,Abe
 people.last_names,Adachi
 people.last_names,Akamatsu
@@ -1924,6 +1931,9 @@ people.last_names,Yoshimura
 people.last_names,Yoshino
 people.last_names,Yoshioka
 people.last_names,Yuuki
+people.last_names,Hoshino
+people.last_names,Kanzaki
+people.last_names,Kamijo
 corporations.name_components.prefixes,Aero
 corporations.name_components.prefixes,Akari
 corporations.name_components.prefixes,Aki
@@ -2090,6 +2100,8 @@ corporations.name_components.prefixes,Yoru
 corporations.name_components.prefixes,Zen
 corporations.name_components.prefixes,Zenith
 corporations.name_components.prefixes,Zeta
+corporations.name_components.prefixes,Kineto
+corporations.name_components.prefixes,Xeno
 corporations.name_components.suffixes,Acoustics
 corporations.name_components.suffixes,Alliance
 corporations.name_components.suffixes,Analytics
@@ -2201,6 +2213,8 @@ corporations.name_components.suffixes,Visuals
 corporations.name_components.suffixes,Wave
 corporations.name_components.suffixes,Works
 corporations.name_components.suffixes,Zone
+corporations.name_components.suffixes,Bio
+corporations.name_components.suffixes,Synthetic
 corporations.name_components.organization_types,Agency
 corporations.name_components.organization_types,Alliance
 corporations.name_components.organization_types,Association
@@ -2290,6 +2304,8 @@ corporations.standalone_brands,YOKAIX
 corporations.standalone_brands,YOKOHAMAX
 corporations.standalone_brands,ZAIBATSUX
 corporations.standalone_brands,ZENTRA
+corporations.standalone_brands,NEONIP
+corporations.standalone_brands,ZENITHA
 corporations.agencies,Akari Elite
 corporations.agencies,Alpha Agency
 corporations.agencies,Astra Talent
@@ -2422,3 +2438,6 @@ media.titles,Void Walker
 media.titles,Whispers of the Shrine
 media.titles,Winds of Hokkaido
 media.titles,Yoru Sakura
+media.titles,Sakura no Ki
+media.titles,Neon Tokyo 2099
+media.titles,The Last Kitsune
