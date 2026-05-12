@@ -1,6 +1,6 @@
 key,value
-metadata.version,1.2.0
-metadata.last_updated,2026-05-11
+metadata.version,1.2.1
+metadata.last_updated,2026-05-12
 metadata.author,Fadhil Akbar Cariearsa
 metadata.license,MIT
 metadata.category,Indonesian Fictional Names
@@ -3001,7 +3001,7 @@ corporations.standalone_brands,GEMILANGKU
 corporations.standalone_brands,GOMOTOR
 corporations.standalone_brands,GRAHARAYA
 corporations.standalone_brands,INDOARTHA
-corporations.standalone_brands,INDOFOODS
+corporations.standalone_brands,INDONUSA
 corporations.standalone_brands,INDOJAYA
 corporations.standalone_brands,JAYAMAKMUR
 corporations.standalone_brands,KARYABAKTI
