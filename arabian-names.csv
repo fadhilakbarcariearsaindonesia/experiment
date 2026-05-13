@@ -1,0 +1,386 @@
+key,value
+metadata.version,1.0.0
+metadata.last_updated,2026-05-13
+metadata.author,Fadhil Akbar Cariearsa
+metadata.license,MIT
+metadata.category,Arabic Fictional Names
+metadata.description,A 100% fictional and copyright-free Arabic naming dataset for universal use.
+people.full_names,Abbas Mansour
+people.full_names,Adel Al-Fayegh
+people.full_names,Adnan Al-Tayeb
+people.full_names,Ahmad Al-Rashid
+people.full_names,Akram Al-Saidi
+people.full_names,Amira Al-Zahrani
+people.full_names,Anas Al-Masri
+people.full_names,Anwar Al-Khatib
+people.full_names,Ayman Al-Hakim
+people.full_names,Aziz Al-Nasser
+people.full_names,Bashar Al-Assad
+people.full_names,Bassem Al-Haddad
+people.full_names,Dalal Al-Maghrabi
+people.full_names,Fadi Al-Azzam
+people.full_names,Fahad Al-Shammari
+people.full_names,Faisal Al-Otaibi
+people.full_names,Farah Al-Hussein
+people.full_names,Farid Al-Atrash
+people.full_names,Fatima Al-Fahad
+people.full_names,Ghassan Al-Kanafani
+people.full_names,Habib Al-Zayyat
+people.full_names,Hadi Al-Amiri
+people.full_names,Hafiz Al-Sayed
+people.full_names,Hamad Al-Khalifa
+people.full_names,Hamza Al-Ghamdi
+people.full_names,Hana Al-Safi
+people.full_names,Hani Al-Qasim
+people.full_names,Hassan Al-Banna
+people.full_names,Hisham Al-Jundi
+people.full_names,Hoda Al-Shaarawi
+people.full_names,Hussein Al-Jasmi
+people.full_names,Ibrahim Al-Faqih
+people.full_names,Idris Al-Saeed
+people.full_names,Imad Al-Din
+people.full_names,Ismail Al-Jazari
+people.full_names,Jaber Al-Ahmad
+people.full_names,Jalal Al-Din
+people.full_names,Jamal Al-Din
+people.full_names,Kamal Al-Ganzouri
+people.full_names,Karim Al-Zaini
+people.full_names,Khaled Al-Waleed
+people.full_names,Laila Al-Atrash
+people.full_names,Latifa Al-Zayyat
+people.full_names,Layla Al-Fahad
+people.full_names,Maher Al-Assad
+people.full_names,Mahmoud Al-Abbar
+people.full_names,Majid Al-Futtaim
+people.full_names,Malek Al-Jundi
+people.full_names,Mansour Al-Nahyan
+people.full_names,Marwan Al-Barghouti
+people.full_names,Mona Al-Saber
+people.full_names,Mounir Al-Hadidi
+people.full_names,Mustafa Al-Bakri
+people.full_names,Nabil Al-Arabi
+people.full_names,Nader Al-Dahabi
+people.full_names,Nadia Al-Gindi
+people.full_names,Najat Al-Saghira
+people.full_names,Najwa Al-Karam
+people.full_names,Naser Al-Kharafi
+people.full_names,Nawal Al-Zoghbi
+people.full_names,Nizar Al-Qabbani
+people.full_names,Noor Al-Ghandour
+people.full_names,Omar Al-Mukhtar
+people.full_names,Osama Al-Azhari
+people.full_names,Qais Al-Khonji
+people.full_names,Rami Al-Saberi
+people.full_names,Ramy Al-Ayadi
+people.full_names,Randa Al-Behery
+people.full_names,Rashid Al-Maktoum
+people.full_names,Raya Al-Abirachid
+people.full_names,Reem Al-Hashimi
+people.full_names,Saad Al-Hariri
+people.full_names,Saber Al-Rebai
+people.full_names,Sahar Al-Sayegh
+people.full_names,Said Al-Mahlawi
+people.full_names,Salah Al-Din
+people.full_names,Salem Al-Dawsari
+people.full_names,Salma Al-Majidi
+people.full_names,Sami Al-Jaber
+people.full_names,Samir Al-Ghanem
+people.full_names,Sara Al-Yafi
+people.full_names,Sultan Al-Neyadi
+people.full_names,Taha Al-Hussein
+people.full_names,Talal Al-Maddah
+people.full_names,Tamer Al-Hosny
+people.full_names,Tareq Al-Suwaidan
+people.full_names,Wafa Al-Kilani
+people.full_names,Walid Al-Ibrahimi
+people.full_names,Yahya Al-Fakharani
+people.full_names,Yasmine Al-Masri
+people.full_names,Youssef Al-Qaradawi
+people.full_names,Zaid Al-Rifai
+people.full_names,Zaki Al-Nassif
+people.full_names,Ziad Al-Rahbani
+people.first_names,Abbas
+people.first_names,Adel
+people.first_names,Adnan
+people.first_names,Ahmad
+people.first_names,Akram
+people.first_names,Amira
+people.first_names,Anas
+people.first_names,Anwar
+people.first_names,Ayman
+people.first_names,Aziz
+people.first_names,Bashar
+people.first_names,Bassem
+people.first_names,Dalal
+people.first_names,Fadi
+people.first_names,Fahad
+people.first_names,Faisal
+people.first_names,Farah
+people.first_names,Farid
+people.first_names,Fatima
+people.first_names,Ghassan
+people.first_names,Habib
+people.first_names,Hadi
+people.first_names,Hafiz
+people.first_names,Hamad
+people.first_names,Hamza
+people.first_names,Hana
+people.first_names,Hani
+people.first_names,Hassan
+people.first_names,Hisham
+people.first_names,Hoda
+people.first_names,Hussein
+people.first_names,Ibrahim
+people.first_names,Idris
+people.first_names,Imad
+people.first_names,Ismail
+people.first_names,Jaber
+people.first_names,Jalal
+people.first_names,Jamal
+people.first_names,Kamal
+people.first_names,Karim
+people.first_names,Khaled
+people.first_names,Laila
+people.first_names,Latifa
+people.first_names,Layla
+people.first_names,Maher
+people.first_names,Mahmoud
+people.first_names,Majid
+people.first_names,Malek
+people.first_names,Mansour
+people.first_names,Marwan
+people.first_names,Mona
+people.first_names,Mounir
+people.first_names,Mustafa
+people.first_names,Nabil
+people.first_names,Nader
+people.first_names,Nadia
+people.first_names,Najat
+people.first_names,Najwa
+people.first_names,Naser
+people.first_names,Nawal
+people.first_names,Nizar
+people.first_names,Noor
+people.first_names,Omar
+people.first_names,Osama
+people.first_names,Qais
+people.first_names,Rami
+people.first_names,Ramy
+people.first_names,Randa
+people.first_names,Rashid
+people.first_names,Raya
+people.first_names,Reem
+people.first_names,Saad
+people.first_names,Saber
+people.first_names,Sahar
+people.first_names,Said
+people.first_names,Salah
+people.first_names,Salem
+people.first_names,Salma
+people.first_names,Sami
+people.first_names,Samir
+people.first_names,Sara
+people.first_names,Sultan
+people.first_names,Taha
+people.first_names,Talal
+people.first_names,Tamer
+people.first_names,Tareq
+people.first_names,Wafa
+people.first_names,Walid
+people.first_names,Yahya
+people.first_names,Yasmine
+people.first_names,Youssef
+people.first_names,Zaid
+people.first_names,Zaki
+people.first_names,Ziad
+people.last_names,Al-Abbar
+people.last_names,Al-Amiri
+people.last_names,Al-Arabi
+people.last_names,Al-Assad
+people.last_names,Al-Atrash
+people.last_names,Al-Azhari
+people.last_names,Al-Azzam
+people.last_names,Al-Bakri
+people.last_names,Al-Banna
+people.last_names,Al-Barghouti
+people.last_names,Al-Dahabi
+people.last_names,Al-Dawsari
+people.last_names,Al-Din
+people.last_names,Al-Fahad
+people.last_names,Al-Faqih
+people.last_names,Al-Fayegh
+people.last_names,Al-Futtaim
+people.last_names,Al-Ganzouri
+people.last_names,Al-Ghamdi
+people.last_names,Al-Ghandour
+people.last_names,Al-Ghanem
+people.last_names,Al-Gindi
+people.last_names,Al-Haddad
+people.last_names,Al-Hadidi
+people.last_names,Al-Hakim
+people.last_names,Al-Hariri
+people.last_names,Al-Hashimi
+people.last_names,Al-Hosny
+people.last_names,Al-Hussein
+people.last_names,Al-Ibrahimi
+people.last_names,Al-Jasmi
+people.last_names,Al-Jazari
+people.last_names,Al-Jundi
+people.last_names,Al-Kanafani
+people.last_names,Al-Karam
+people.last_names,Al-Khalifa
+people.last_names,Al-Kharafi
+people.last_names,Al-Khatib
+people.last_names,Al-Khonji
+people.last_names,Al-Kilani
+people.last_names,Al-Maddah
+people.last_names,Al-Maghrabi
+people.last_names,Al-Mahlawi
+people.last_names,Al-Maktoum
+people.last_names,Al-Masri
+people.last_names,Al-Mukhtar
+people.last_names,Al-Nahyan
+people.last_names,Al-Nasser
+people.last_names,Al-Nassif
+people.last_names,Al-Neyadi
+people.last_names,Al-Otaibi
+people.last_names,Al-Qabbani
+people.last_names,Al-Qaradawi
+people.last_names,Al-Qasim
+people.last_names,Al-Rahbani
+people.last_names,Al-Rashid
+people.last_names,Al-Rebai
+people.last_names,Al-Rifai
+people.last_names,Al-Saber
+people.last_names,Al-Saberi
+people.last_names,Al-Saeed
+people.last_names,Al-Safi
+people.last_names,Al-Saghira
+people.last_names,Al-Saidi
+people.last_names,Al-Sayegh
+people.last_names,Al-Sayed
+people.last_names,Al-Shaarawi
+people.last_names,Al-Shammari
+people.last_names,Al-Suwaidan
+people.last_names,Al-Tayeb
+people.last_names,Al-Waleed
+people.last_names,Al-Yafi
+people.last_names,Al-Zahrani
+people.last_names,Al-Zaini
+people.last_names,Al-Zayyat
+people.last_names,Al-Zoghbi
+corporations.name_components.prefixes,Al-
+corporations.name_components.prefixes,Noor
+corporations.name_components.prefixes,Waha
+corporations.name_components.prefixes,Sama
+corporations.name_components.prefixes,Ardah
+corporations.name_components.prefixes,Zaki
+corporations.name_components.prefixes,Sahel
+corporations.name_components.prefixes,Badr
+corporations.name_components.prefixes,Fajr
+corporations.name_components.prefixes,Najm
+corporations.name_components.prefixes,Sahr
+corporations.name_components.prefixes,Amlak
+corporations.name_components.prefixes,Baraka
+corporations.name_components.prefixes,Dunia
+corporations.name_components.prefixes,Emaar
+corporations.name_components.prefixes,Habibi
+corporations.name_components.prefixes,Izdihar
+corporations.name_components.prefixes,Karam
+corporations.name_components.prefixes,Lulu
+corporations.name_components.prefixes,Mada
+corporations.name_components.prefixes,Oasis
+corporations.name_components.prefixes,Petra
+corporations.name_components.prefixes,Rayan
+corporations.name_components.prefixes,Safeer
+corporations.name_components.prefixes,Thara
+corporations.name_components.suffixes,Arabia
+corporations.name_components.suffixes,Gulf
+corporations.name_components.suffixes,Middle East
+corporations.name_components.suffixes,Emirates
+corporations.name_components.suffixes,Trading
+corporations.name_components.suffixes,Holdings
+corporations.name_components.suffixes,Investment
+corporations.name_components.suffixes,Logistics
+corporations.name_components.suffixes,Energy
+corporations.name_components.suffixes,Industrial
+corporations.name_components.suffixes,Tech
+corporations.name_components.suffixes,Group
+corporations.name_components.suffixes,Global
+corporations.name_components.suffixes,Venture
+corporations.name_components.suffixes,Consulting
+corporations.name_components.organization_types,FZCO
+corporations.name_components.organization_types,LLC
+corporations.name_components.organization_types,JSC
+corporations.name_components.organization_types,Holding
+corporations.name_components.organization_types,Ltd
+corporations.name_components.organization_types,Establishment
+corporations.name_components.organization_types,Company
+corporations.name_components.organization_types,Bank
+corporations.name_components.organization_types,Institute
+corporations.name_components.organization_types,Agency
+corporations.standalone_brands,ALMARE
+corporations.standalone_brands,NOORA
+corporations.standalone_brands,EMARAT
+corporations.standalone_brands,SAHARA
+corporations.standalone_brands,OASISX
+corporations.standalone_brands,PETRACOM
+corporations.standalone_brands,GULFLINE
+corporations.standalone_brands,DUNA
+corporations.standalone_brands,ARABIAX
+corporations.standalone_brands,NAJMCO
+corporations.standalone_brands,ZAKICO
+corporations.standalone_brands,FAJRCOM
+corporations.standalone_brands,MADACORP
+corporations.standalone_brands,RAYANTECH
+corporations.standalone_brands,SAFEERCO
+corporations.agencies,Al-Noor Agency
+corporations.agencies,Sama Management
+corporations.agencies,Waha Talent
+corporations.agencies,Najm Media
+corporations.agencies,Fajr Press
+corporations.agencies,Badr Marketing
+corporations.agencies,Petra PR
+corporations.agencies,Desert Creative
+corporations.agencies,Oasis Digital
+corporations.agencies,Gulf Star
+corporations.production_houses,Al-Arabia Cinema
+corporations.production_houses,Desert Dream Films
+corporations.production_houses,Middle East Motion
+corporations.production_houses,Sands Pictures
+corporations.production_houses,Cairo Vision
+corporations.production_houses,Dunia Studios
+corporations.production_houses,Emirates Frame
+corporations.production_houses,Petra Films
+corporations.production_houses,Oasis Media
+corporations.production_houses,Gulf Visuals
+media.titles,Rimal Al-Zaman
+media.titles,Nur Al-Sahara
+media.titles,Asrar Al-Waha
+media.titles,Sama' Al-Arab
+media.titles,Najm Baghdad
+media.titles,Hikayat Al-Nahrain
+media.titles,Layali Al-Qahira
+media.titles,Rih Al-Badia
+media.titles,Bab Al-Asrar
+media.titles,Asatir Al-Sharq
+media.titles,Hubb Fi Al-Rimal
+media.titles,Sirr Al-Ahram
+media.titles,Fajr Al-Hurriya
+media.titles,Darb Al-Andalus
+media.titles,Lu'lu'at Al-Khalij
+media.titles,Wadi Al-Muluk
+media.titles,Musafir Al-Layl
+media.titles,Hilal Al-Dahab
+media.titles,Karamat Al-Sahara
+media.titles,Lahzat Al-Wada'
+media.titles,Sawt Al-Minara
+media.titles,Nur Al-Masriq
+media.titles,Suq Al-Hayat
+media.titles,Sayf Al-Haqq
+media.titles,Safinat Al-Ahlam
+media.titles,Madi Al-Nil
+media.titles,Yasmin Al-Sham
+media.titles,Naday Al-Sabah
+media.titles,Zaman Al-Fursan
+media.titles,Sada Al-Ghurub
