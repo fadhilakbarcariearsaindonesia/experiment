@@ -1,6 +1,6 @@
 Key,Value
-metadata.version,2.3.1
-metadata.last_updated,2026-05-12
+metadata.version,2.4.1
+metadata.last_updated,2026-05-16
 metadata.author,Fadhil Akbar Cariearsa
 metadata.license,MIT
 metadata.category,Japanese Fictional Names
@@ -18,6 +18,7 @@ people.full_names,Akari Yoshimura
 people.full_names,Akemi Abe
 people.full_names,Akemi Nakajima
 people.full_names,Akemi Sugawara
+people.full_names,Akifumi Agawa
 people.full_names,Akihiko Enomoto
 people.full_names,Akihiko Goto
 people.full_names,Akihiro Saito
@@ -32,10 +33,13 @@ people.full_names,Akira Akiyama
 people.full_names,Akira Igarashi
 people.full_names,Akira Nakagawa
 people.full_names,Akira Suzuki
-people.full_names,Akira Taue
+people.full_names,Akira Takayama
+people.full_names,Akitsugu Akiba
+people.full_names,Amaya Amino
 people.full_names,Aoi Furukawa
-people.full_names,Aoi Kirana
+people.full_names,Aoi Kitano
 people.full_names,Aoi Takahashi
+people.full_names,Aoiro Amori
 people.full_names,Arata Inoue
 people.full_names,Arisa Fujimoto
 people.full_names,Arisa Harada
@@ -48,6 +52,7 @@ people.full_names,Asami Yoshioka
 people.full_names,Asato Nakano
 people.full_names,Asuka Nakano
 people.full_names,Asuka Yoshida
+people.full_names,Atsuhiko Anzai
 people.full_names,Atsumu Sakurai
 people.full_names,Atsushi Endo
 people.full_names,Atsushi Kojima
@@ -72,6 +77,7 @@ people.full_names,Ayumi Shibata
 people.full_names,Ayumu Sasaki
 people.full_names,Ayumu Tanaka
 people.full_names,Ayumu Uchida
+people.full_names,Azusa Araki
 people.full_names,Baku Hasegawa
 people.full_names,Banri Kudo
 people.full_names,Benjiro Ito
@@ -84,6 +90,7 @@ people.full_names,Chidori Aoki
 people.full_names,Chieko Hirano
 people.full_names,Chieko Watanabe
 people.full_names,Chiharu Kido
+people.full_names,Chihaya Arata
 people.full_names,Chihiro Kato
 people.full_names,Chihiro Maruyama
 people.full_names,Chika Fujinuma
@@ -93,12 +100,15 @@ people.full_names,Chika Kawamura
 people.full_names,Chika Kobayashi
 people.full_names,Chika Minami
 people.full_names,Chikage Hashimoto
+people.full_names,Chikako Arisato
 people.full_names,Chikara Matsumoto
 people.full_names,Chisato Matsui
 people.full_names,Chisato Noda
+people.full_names,Chitose Asamitsu
 people.full_names,Chiyo Doi
 people.full_names,Chiyo Kudo
 people.full_names,Chiyo Yamanaka
+people.full_names,Chizuko Ashida
 people.full_names,Chizuru Takahashi
 people.full_names,Daichi Ito
 people.full_names,Daichi Nakamura
@@ -110,6 +120,7 @@ people.full_names,Daiki Hashimoto
 people.full_names,Daiki Matsumoto
 people.full_names,Daiki Sasaki
 people.full_names,Daiki Sugita
+people.full_names,Daishiro Azuma
 people.full_names,Daisuke Eguchi
 people.full_names,Daisuke Fujiwara
 people.full_names,Daisuke Hayashi
@@ -124,6 +135,8 @@ people.full_names,Eiji Fujimoto
 people.full_names,Eiji Matsumoto
 people.full_names,Eiji Nakano
 people.full_names,Eiji Yoshida
+people.full_names,Eikichi Ban
+people.full_names,Eimi Chinen
 people.full_names,Eita Moriyama
 people.full_names,Eita Suzuki
 people.full_names,Ema Fujimoto
@@ -136,6 +149,7 @@ people.full_names,Emi Nakajima
 people.full_names,Emi Takeda
 people.full_names,Emi Yamada
 people.full_names,Emi Yoshida
+people.full_names,Emiko Dan
 people.full_names,Ena Kawaguchi
 people.full_names,Eriko Kagawa
 people.full_names,Eriko Kimura
@@ -146,8 +160,10 @@ people.full_names,Etsuko Honda
 people.full_names,Etsuko Sugimoto
 people.full_names,Etsuko Sugiyama
 people.full_names,Etsuko Watanabe
+people.full_names,Fubuki Ebisawa
 people.full_names,Fujio Fukushima
 people.full_names,Fujio Hori
+people.full_names,Fuko Eto
 people.full_names,Fumie Harada
 people.full_names,Fumiko Furukawa
 people.full_names,Fumiko Hirano
@@ -159,23 +175,27 @@ people.full_names,Fumiya Endo
 people.full_names,Fumiya Hayashi
 people.full_names,Fumiya Kinoshita
 people.full_names,Fumiya Ogawa
+people.full_names,Fusae Fuchigami
+people.full_names,Fuyuka Funaki
 people.full_names,Fuyuki Matsuo
 people.full_names,Fuyumi Saito
 people.full_names,Gaku Nishida
 people.full_names,Gaku Noguchi
 people.full_names,Gaku Shimizu
 people.full_names,Gaku Takahashi
-people.full_names,Genichiro Tenryu
+people.full_names,Genichiro Takeda
 people.full_names,Genjiro Yamaguchi
 people.full_names,Genki Furuta
 people.full_names,Genki Matsuo
 people.full_names,Genki Yamazaki
 people.full_names,Genki Yanagi
 people.full_names,Genki Yoshikawa
+people.full_names,Genta Furuse
 people.full_names,Genzo Maeda
+people.full_names,Ginko Fuse
 people.full_names,Go Tanaka
 people.full_names,Goro Furuta
-people.full_names,Goro Himura
+people.full_names,Goro Hirata
 people.full_names,Goro Ikeda
 people.full_names,Goro Ishida
 people.full_names,Goro Matsushima
@@ -196,6 +216,8 @@ people.full_names,Haru Kurosawa
 people.full_names,Haru Onishi
 people.full_names,Haru Tanaka
 people.full_names,Haru Yamashita
+people.full_names,Harue Gomi
+people.full_names,Haruhiko Gonda
 people.full_names,Haruka Ishikawa
 people.full_names,Haruka Nishimura
 people.full_names,Haruka Sugimoto
@@ -211,7 +233,10 @@ people.full_names,Haruto Ogawa
 people.full_names,Haruto Ota
 people.full_names,Haruto Shibata
 people.full_names,Haruto Uchida
+people.full_names,Hatsue Hachisuka
 people.full_names,Hatsune Tamura
+people.full_names,Hatsuyo Hagiwara
+people.full_names,Hayataka Hamamoto
 people.full_names,Hayate Ito
 people.full_names,Hayato Hamasaki
 people.full_names,Hayato Ishii
@@ -219,16 +244,20 @@ people.full_names,Hayato Kudo
 people.full_names,Hayato Maeda
 people.full_names,Hayato Nomura
 people.full_names,Hayato Shibata
+people.full_names,Hibari Hanzawa
 people.full_names,Hibiki Kobayashi
 people.full_names,Hideaki Kimura
+people.full_names,Hidefumi Haraguchi
 people.full_names,Hideki Fujimoto
-people.full_names,Hideki Hanari
 people.full_names,Hideki Ishikawa
 people.full_names,Hideki Matsui
 people.full_names,Hideki Sakai
+people.full_names,Hidemi Hatakeyama
 people.full_names,Hideo Hayashi
 people.full_names,Hideyoshi Hara
 people.full_names,Hideyoshi Yoshikawa
+people.full_names,Hifumi Hida
+people.full_names,Higurashi Higashiyama
 people.full_names,Hikari Hasegawa
 people.full_names,Hikari Kurosawa
 people.full_names,Hikari Shibata
@@ -237,6 +266,8 @@ people.full_names,Hikaru Hara
 people.full_names,Hikaru Ishikawa
 people.full_names,Hikaru Ito
 people.full_names,Hikaru Morita
+people.full_names,Hime Hirakawa
+people.full_names,Himeko Hironaka
 people.full_names,Hina Ueda
 people.full_names,Hina Yoshida
 people.full_names,Hinata Goto
@@ -244,8 +275,10 @@ people.full_names,Hinata Igarashi
 people.full_names,Hinata Imai
 people.full_names,Hinata Ishida
 people.full_names,Hinata Shimizu
+people.full_names,Hiraku Hoshizaki
 people.full_names,Hiroaki Harada
 people.full_names,Hiroaki Iwasaki
+people.full_names,Hirofumi Ichii
 people.full_names,Hiroki Matsuo
 people.full_names,Hiroki Nakayama
 people.full_names,Hiroki Okada
@@ -257,6 +290,7 @@ people.full_names,Hiroko Nakano
 people.full_names,Hiroko Wada
 people.full_names,Hiroko Yamazaki
 people.full_names,Hiroko Yoshino
+people.full_names,Hiromi Iguchi
 people.full_names,Hiromu Takayama
 people.full_names,Hirooki Goto
 people.full_names,Hiroshi Hasegawa
@@ -267,14 +301,18 @@ people.full_names,Hiroshi Takabashi
 people.full_names,Hiroto Hirose
 people.full_names,Hiroto Kondo
 people.full_names,Hiroto Takeuchi
-people.full_names,Hiroyoshi Tenzan
+people.full_names,Hiroyoshi Terada
 people.full_names,Hiroyuki Fukushima
 people.full_names,Hisa Horiuchi
+people.full_names,Hisae Ijima
+people.full_names,Hisako Iino
+people.full_names,Hisao Iokawa
 people.full_names,Hisashi Ikeda
 people.full_names,Hitomi Hashimoto
 people.full_names,Hitomi Kato
 people.full_names,Hitomi Takagi
 people.full_names,Hitomi Tamura
+people.full_names,Hiyoko Ishibashi
 people.full_names,Hiyori Iki
 people.full_names,Honoka Abe
 people.full_names,Honoka Hata
@@ -282,6 +320,9 @@ people.full_names,Honoka Hori
 people.full_names,Honoka Kawaguchi
 people.full_names,Honoka Ono
 people.full_names,Honoka Ueno
+people.full_names,Hozumi Kajiwara
+people.full_names,Hyakutaro Kameyama
+people.full_names,Hyuga Kanai
 people.full_names,Ichigo Ishihara
 people.full_names,Ichigo Suzuki
 people.full_names,Ichika Hashimoto
@@ -292,8 +333,13 @@ people.full_names,Ichiro Kasuga
 people.full_names,Ichiro Kawakami
 people.full_names,Ichiro Suzuki
 people.full_names,Ichiro Watanabe
+people.full_names,Ichita Kasahara
+people.full_names,Ikkaku Katori
+people.full_names,Ikki Kihara
+people.full_names,Ikkou Kishimoto
 people.full_names,Iku Hasegawa
 people.full_names,Iroha Matsutani
+people.full_names,Isami Kita
 people.full_names,Isamu Hayami
 people.full_names,Isamu Honda
 people.full_names,Isamu Kawamura
@@ -304,6 +350,7 @@ people.full_names,Isamu Yamashita
 people.full_names,Isao Kato
 people.full_names,Issei Iwata
 people.full_names,Isuzu Takeuchi
+people.full_names,Itaru Kitano
 people.full_names,Itsuki Hayashi
 people.full_names,Itsuki Kawasaki
 people.full_names,Itsuki Kinoshita
@@ -312,6 +359,8 @@ people.full_names,Itsuki Mori
 people.full_names,Itsuki Nakagawa
 people.full_names,Itsuki Sugimoto
 people.full_names,Itsuki Watanabe
+people.full_names,Itsuyo Koizumi
+people.full_names,Iwao Kokubo
 people.full_names,Izumi Matsuda
 people.full_names,Izumi Nakano
 people.full_names,Izumi Nakayama
@@ -327,7 +376,8 @@ people.full_names,Jiro Hayashida
 people.full_names,Jiro Kikuchi
 people.full_names,Jiro Ogawa
 people.full_names,Jiro Sugawara
-people.full_names,Joji Murakami
+people.full_names,Jotaro Komori
+people.full_names,Jugo Konno
 people.full_names,Jun Akiyama
 people.full_names,Jun Higuchi
 people.full_names,Jun Kimura
@@ -339,12 +389,19 @@ people.full_names,Junichi Ota
 people.full_names,Junichi Sakurai
 people.full_names,Junichi Sato
 people.full_names,Junji Yoshida
+people.full_names,Juuta Kosaka
+people.full_names,Kagami Kubota
+people.full_names,Kagehisa Kuramoto
+people.full_names,Kagemasa Kuzuryu
+people.full_names,Kagome Maehara
 people.full_names,Kaho Fukuda
 people.full_names,Kaho Nakatani
 people.full_names,Kaho Watanabe
+people.full_names,Kahoru Matsunaga
 people.full_names,Kai Morino
+people.full_names,Kairi Hoshino
 people.full_names,Kaito Hasegawa
-people.full_names,Kaito Himura
+people.full_names,Kaito Hirata
 people.full_names,Kaito Honda
 people.full_names,Kaito Kinoshita
 people.full_names,Kaito Kuroda
@@ -352,20 +409,28 @@ people.full_names,Kaito Nishimura
 people.full_names,Kaito Saito
 people.full_names,Kaito Takahashi
 people.full_names,Kaito Yamada
+people.full_names,Kaiya Mikami
+people.full_names,Kajika Mine
+people.full_names,Kakeru Mita
+people.full_names,Kamui Miya
 people.full_names,Kana Fujii
 people.full_names,Kana Hirai
 people.full_names,Kana Kobayashi
 people.full_names,Kana Kurokawa
+people.full_names,Kanae Miyagawa
 people.full_names,Kanako Aoki
 people.full_names,Kanako Hirano
 people.full_names,Kanako Kojima
+people.full_names,Kaname Mizutani
 people.full_names,Kanata Kondo
+people.full_names,Kankuro Momota
 people.full_names,Kanna Ito
 people.full_names,Kanna Katayama
 people.full_names,Kanna Matsui
 people.full_names,Kanna Murakami
 people.full_names,Kanna Otsuka
 people.full_names,Kanna Suzuki
+people.full_names,Kanzaburo Morishita
 people.full_names,Kaori Endo
 people.full_names,Kaori Hirata
 people.full_names,Kaori Kinoshita
@@ -375,23 +440,28 @@ people.full_names,Kaori Matsushita
 people.full_names,Kaori Watanabe
 people.full_names,Kaoru Kawakami
 people.full_names,Kaoru Sakamoto
+people.full_names,Kasumi Motonaga
 people.full_names,Katsu Hirayama
 people.full_names,Katsu Kato
 people.full_names,Katsu Kondo
 people.full_names,Katsu Saito
 people.full_names,Katsu Wada
+people.full_names,Katsuhiro Mukai
+people.full_names,Katsuhito Muramatsu
 people.full_names,Katsuki Kondo
 people.full_names,Katsuro Kimura
 people.full_names,Katsuya Hasebe
 people.full_names,Katsuya Hirose
 people.full_names,Katsuya Ishii
 people.full_names,Katsuya Koyama
+people.full_names,Kazue Muto
 people.full_names,Kazuha Ishii
 people.full_names,Kazuha Kondo
 people.full_names,Kazuhiko Hiruma
 people.full_names,Kazuhiko Kubo
 people.full_names,Kazuhiro Kida
 people.full_names,Kazuhiro Murakami
+people.full_names,Kazuhito Nagase
 people.full_names,Kazuki Hasegawa
 people.full_names,Kazuki Hokari
 people.full_names,Kazuki Kudo
@@ -402,6 +472,7 @@ people.full_names,Kazuko Honda
 people.full_names,Kazuko Kumagai
 people.full_names,Kazuko Okada
 people.full_names,Kazuma Kimura
+people.full_names,Kazumi Nakai
 people.full_names,Kazuo Goto
 people.full_names,Kazuo Honma
 people.full_names,Kazuo Kuroda
@@ -412,6 +483,7 @@ people.full_names,Kazuya Okada
 people.full_names,Kei Hori
 people.full_names,Kei Kurosawa
 people.full_names,Kei Maeda
+people.full_names,Keiichi Naoi
 people.full_names,Keiji Matsuo
 people.full_names,Keiko Horiuchi
 people.full_names,Keiko Maeda
@@ -419,6 +491,8 @@ people.full_names,Keiko Nakajima
 people.full_names,Keisuke Ishikawa
 people.full_names,Keisuke Nakayama
 people.full_names,Keisuke Sasaki
+people.full_names,Keitaro Nii
+people.full_names,Keito Nishikido
 people.full_names,Ken Koda
 people.full_names,Ken Yamashita
 people.full_names,Kengo Kurosaki
@@ -432,8 +506,11 @@ people.full_names,Kenji Maruyama
 people.full_names,Kenji Nakagawa
 people.full_names,Kenjiro Mori
 people.full_names,Kenjiro Yamauchi
+people.full_names,Kenkichi Nitta
 people.full_names,Kenma Katsura
-people.full_names,Kenshin Sakamoto
+people.full_names,Kensaku Nozawa
+people.full_names,Kenshin Saito
+people.full_names,Kenshiro Numata
 people.full_names,Kensuke Hoshino
 people.full_names,Kensuke Masuda
 people.full_names,Kensuke Nishikawa
@@ -445,15 +522,30 @@ people.full_names,Kenta Matsubara
 people.full_names,Kenta Nishimura
 people.full_names,Kenta Oshima
 people.full_names,Kenta Yoshida
-people.full_names,Kento Ibushi
+people.full_names,Kentaro Ochi
+people.full_names,Kento Igarashi
 people.full_names,Kento Matsuda
 people.full_names,Kento Mori
 people.full_names,Kichiro Kondo
+people.full_names,Kikko Ogino
+people.full_names,Kiko Ohashi
+people.full_names,Kiku Okita
+people.full_names,Kikuko Okubo
+people.full_names,Kimiko Omi
+people.full_names,Kimiya Omura
+people.full_names,Kintaro Ootake
+people.full_names,Kiri Osaki
+people.full_names,Kirito Ozaki
+people.full_names,Kisa Ozawa
+people.full_names,Kisaburo Ryuzaki
+people.full_names,Kishi Saeki
+people.full_names,Kiyo Sakata
 people.full_names,Kiyoko Ichikawa
 people.full_names,Kiyoko Kubo
 people.full_names,Kiyoko Matsui
 people.full_names,Kiyoko Yamazaki
 people.full_names,Kiyomi Endo
+people.full_names,Kiyomitsu Sameshima
 people.full_names,Koharu Aoki
 people.full_names,Kohei Koyama
 people.full_names,Kohei Shimizu
@@ -464,6 +556,12 @@ people.full_names,Koichi Ichinose
 people.full_names,Koichi Matsumoto
 people.full_names,Koki Kimura
 people.full_names,Koki Uchiyama
+people.full_names,Kokomi Sanada
+people.full_names,Koma Sasagawa
+people.full_names,Komachi Sawada
+people.full_names,Konami Sekiguchi
+people.full_names,Konoka Sera
+people.full_names,Koshiro Seto
 people.full_names,Kota Igarashi
 people.full_names,Kota Inoue
 people.full_names,Kota Ishii
@@ -477,11 +575,17 @@ people.full_names,Kotaro Sasaki
 people.full_names,Kotone Nishida
 people.full_names,Kotone Saito
 people.full_names,Kotone Yokoyama
+people.full_names,Kotori Shiga
 people.full_names,Kouta Kumagai
 people.full_names,Kouta Sakamoto
+people.full_names,Koyomi Shima
+people.full_names,Kumi Shimamura
 people.full_names,Kumiko Iki
 people.full_names,Kumiko Matsuoka
 people.full_names,Kumiko Yamaguchi
+people.full_names,Kunihiro Shinoda
+people.full_names,Kura Shiratori
+people.full_names,Kuramitsu Shoda
 people.full_names,Kurumi Nakano
 people.full_names,Kyoka Izumi
 people.full_names,Kyoka Sasaki
@@ -491,9 +595,14 @@ people.full_names,Kyoko Matsushita
 people.full_names,Kyoko Minami
 people.full_names,Kyoko Sasaki
 people.full_names,Kyoko Yamada
+people.full_names,Kyotaro Sohma
+people.full_names,Maaya Sugai
+people.full_names,Machi Sugiura
+people.full_names,Machiko Sunaga
 people.full_names,Madoka Inagaki
 people.full_names,Madoka Matsuura
 people.full_names,Madoka Yoshida
+people.full_names,Mafuyu Suwa
 people.full_names,Maho Sakamoto
 people.full_names,Mai Arai
 people.full_names,Mai Inoue
@@ -607,13 +716,14 @@ people.full_names,Misaki Ito
 people.full_names,Misaki Kasuga
 people.full_names,Misaki Nakano
 people.full_names,Misaki Sano
+people.full_names,Misora Kanzaki
 people.full_names,Mitsuki Mizuguchi
 people.full_names,Mitsuki Nakayama
 people.full_names,Mitsuki Onishi
 people.full_names,Mitsuko Katayama
 people.full_names,Mitsuko Nakata
 people.full_names,Mitsuko Sugimoto
-people.full_names,Mitsuru Misawa
+people.full_names,Mitsuru Minami
 people.full_names,Mitsuru Nakatani
 people.full_names,Miwa Arai
 people.full_names,Miwa Nakayama
@@ -718,7 +828,7 @@ people.full_names,Ren Shimizu
 people.full_names,Rika Fujii
 people.full_names,Rika Nakayama
 people.full_names,Rika Sakaguchi
-people.full_names,Riki Choshu
+people.full_names,Riki Chiba
 people.full_names,Riko Aoki
 people.full_names,Riko Sakai
 people.full_names,Riku Aoki
@@ -806,6 +916,7 @@ people.full_names,Sayuri Koike
 people.full_names,Sayuri Shimizu
 people.full_names,Sayuri Tachibana
 people.full_names,Seiichi Takada
+people.full_names,Seiji Handa
 people.full_names,Seiji Hayashi
 people.full_names,Seiji Takagi
 people.full_names,Setsuko Kimura
@@ -829,7 +940,7 @@ people.full_names,Shinji Tamura
 people.full_names,Shinji Yamada
 people.full_names,Shinsuke Izumi
 people.full_names,Shinsuke Nakano
-people.full_names,Shinya Tanahashi
+people.full_names,Shinya Takamoto
 people.full_names,Shiori Hara
 people.full_names,Shiori Tanaka
 people.full_names,Shiori Yoshida
@@ -841,10 +952,10 @@ people.full_names,Shizuka Taniguchi
 people.full_names,Shizuko Taue
 people.full_names,Sho Horiuchi
 people.full_names,Sho Matsuura
-people.full_names,Sho Tenryu
+people.full_names,Sho Takeda
 people.full_names,Shogo Nakamura
 people.full_names,Shogo Nishimura
-people.full_names,Shoichi Tenzan
+people.full_names,Shoichi Terada
 people.full_names,Shoichi Yamamoto
 people.full_names,Shoji Fujimoto
 people.full_names,Shoji Nakayama
@@ -871,7 +982,6 @@ people.full_names,Sota Matsubara
 people.full_names,Sota Takahashi
 people.full_names,Sota Tsuboi
 people.full_names,Sota Uchida
-people.full_names,Suji Hanari
 people.full_names,Sumiko Suzuki
 people.full_names,Sumiko Tsuda
 people.full_names,Susumu Omori
@@ -950,7 +1060,7 @@ people.full_names,Tetsuo Yamauchi
 people.full_names,Tetsuya Nakano
 people.full_names,Tetsuya Sano
 people.full_names,Tetsuya Yamazaki
-people.full_names,Togi Makabe
+people.full_names,Togi Matsuda
 people.full_names,Tomoaki Honma
 people.full_names,Tomoaki Onishi
 people.full_names,Tomohiro Ishii
@@ -974,6 +1084,7 @@ people.full_names,Toshiko Yoshida
 people.full_names,Toshio Yoshikawa
 people.full_names,Toshiro Shibata
 people.full_names,Toshiyuki Yoshimura
+people.full_names,Touma Kanda
 people.full_names,Tsubasa Murata
 people.full_names,Tsubasa Ota
 people.full_names,Tsubasa Sakai
@@ -1089,7 +1200,7 @@ people.full_names,Yusuke Kondo
 people.full_names,Yusuke Takayama
 people.full_names,Yuta Chiba
 people.full_names,Yuta Murakami
-people.full_names,Yutaka Chono
+people.full_names,Yutaka Chiba
 people.full_names,Yutaka Hasegawa
 people.full_names,Yutaro Miyata
 people.full_names,Yuto Date
@@ -1109,9 +1220,6 @@ people.full_names,Zenko Takahashi
 people.full_names,Zenta Goto
 people.full_names,Zenta Okamoto
 people.full_names,Zenzo Fukuda
-people.full_names,Kairi Hoshino
-people.full_names,Misora Kanzaki
-people.full_names,Touma Kamijo
 people.first_names,Ai
 people.first_names,Aika
 people.first_names,Aiko
@@ -1121,6 +1229,7 @@ people.first_names,Akane
 people.first_names,Akari
 people.first_names,Akemi
 people.first_names,Aki
+people.first_names,Akifumi
 people.first_names,Akihiko
 people.first_names,Akihiro
 people.first_names,Akiko
@@ -1128,10 +1237,13 @@ people.first_names,Akimitsu
 people.first_names,Akina
 people.first_names,Akio
 people.first_names,Akira
+people.first_names,Akitsugu
 people.first_names,Amane
 people.first_names,Amaterasu
+people.first_names,Amaya
 people.first_names,Anzu
 people.first_names,Aoi
+people.first_names,Aoiro
 people.first_names,Arata
 people.first_names,Arisa
 people.first_names,Asahi
@@ -1139,6 +1251,7 @@ people.first_names,Asako
 people.first_names,Asami
 people.first_names,Asato
 people.first_names,Asuka
+people.first_names,Atsuhiko
 people.first_names,Atsushi
 people.first_names,Ayaka
 people.first_names,Ayako
@@ -1147,6 +1260,7 @@ people.first_names,Ayano
 people.first_names,Ayato
 people.first_names,Ayumi
 people.first_names,Ayumu
+people.first_names,Azusa
 people.first_names,Baku
 people.first_names,Banri
 people.first_names,Benjiro
@@ -1158,36 +1272,48 @@ people.first_names,Chidori
 people.first_names,Chie
 people.first_names,Chieko
 people.first_names,Chiharu
+people.first_names,Chihaya
 people.first_names,Chihiro
 people.first_names,Chika
 people.first_names,Chikage
+people.first_names,Chikako
 people.first_names,Chikara
 people.first_names,Chisato
+people.first_names,Chitose
 people.first_names,Chiyo
+people.first_names,Chizuko
 people.first_names,Chizuru
 people.first_names,Daichi
 people.first_names,Daigo
 people.first_names,Daiki
+people.first_names,Daishiro
 people.first_names,Daisuke
 people.first_names,Eiji
+people.first_names,Eikichi
+people.first_names,Eimi
 people.first_names,Eisuke
 people.first_names,Eita
 people.first_names,Eito
 people.first_names,Ema
 people.first_names,Emi
+people.first_names,Emiko
 people.first_names,Ena
 people.first_names,Eri
 people.first_names,Eriko
 people.first_names,Etsu
 people.first_names,Etsuko
+people.first_names,Fubuki
 people.first_names,Fujiko
 people.first_names,Fujio
+people.first_names,Fuko
 people.first_names,Fumi
 people.first_names,Fumie
 people.first_names,Fumika
 people.first_names,Fumiko
 people.first_names,Fumio
 people.first_names,Fumiya
+people.first_names,Fusae
+people.first_names,Fuyuka
 people.first_names,Fuyuki
 people.first_names,Fuyumi
 people.first_names,Gaku
@@ -1196,36 +1322,53 @@ people.first_names,Genichiro
 people.first_names,Genji
 people.first_names,Genjiro
 people.first_names,Genki
+people.first_names,Genta
 people.first_names,Genzo
+people.first_names,Ginko
 people.first_names,Go
 people.first_names,Goro
 people.first_names,Hajime
 people.first_names,Hana
 people.first_names,Hanako
 people.first_names,Haru
+people.first_names,Harue
+people.first_names,Haruhiko
 people.first_names,Haruka
 people.first_names,Haruki
 people.first_names,Haruko
 people.first_names,Harumi
 people.first_names,Haruna
 people.first_names,Haruto
+people.first_names,Hatsue
 people.first_names,Hatsune
+people.first_names,Hatsuyo
+people.first_names,Hayataka
 people.first_names,Hayate
 people.first_names,Hayato
+people.first_names,Hibari
 people.first_names,Hibiki
 people.first_names,Hideaki
+people.first_names,Hidefumi
 people.first_names,Hideki
+people.first_names,Hidemi
 people.first_names,Hidetoshi
 people.first_names,Hideo
 people.first_names,Hideyoshi
 people.first_names,Hideyuki
+people.first_names,Hifumi
+people.first_names,Higurashi
 people.first_names,Hikari
 people.first_names,Hikaru
+people.first_names,Hime
+people.first_names,Himeko
 people.first_names,Hina
 people.first_names,Hinata
+people.first_names,Hiraku
 people.first_names,Hiroaki
+people.first_names,Hirofumi
 people.first_names,Hiroki
 people.first_names,Hiroko
+people.first_names,Hiromi
 people.first_names,Hiromu
 people.first_names,Hirooki
 people.first_names,Hiroshi
@@ -1233,81 +1376,140 @@ people.first_names,Hiroto
 people.first_names,Hiroyoshi
 people.first_names,Hiroyuki
 people.first_names,Hisa
+people.first_names,Hisae
+people.first_names,Hisako
+people.first_names,Hisao
 people.first_names,Hisashi
 people.first_names,Hitomi
 people.first_names,Hitoshi
+people.first_names,Hiyoko
 people.first_names,Hiyori
 people.first_names,Hokuto
 people.first_names,Homura
 people.first_names,Honoka
 people.first_names,Hotaka
+people.first_names,Hozumi
+people.first_names,Hyakutaro
+people.first_names,Hyuga
 people.first_names,Ibuki
 people.first_names,Ichigo
 people.first_names,Ichika
 people.first_names,Ichiro
+people.first_names,Ichita
+people.first_names,Ikkaku
+people.first_names,Ikki
+people.first_names,Ikkou
 people.first_names,Iku
 people.first_names,Iori
 people.first_names,Iriha
+people.first_names,Isami
 people.first_names,Isamu
 people.first_names,Isao
 people.first_names,Issei
 people.first_names,Isuzu
+people.first_names,Itaru
 people.first_names,Itsuki
+people.first_names,Itsuyo
+people.first_names,Iwao
 people.first_names,Izumi
 people.first_names,Jin
 people.first_names,Jiro
 people.first_names,Joji
+people.first_names,Jotaro
+people.first_names,Jugo
 people.first_names,Jun
 people.first_names,Junichi
 people.first_names,Junji
 people.first_names,Junko
 people.first_names,Junpei
+people.first_names,Juuta
 people.first_names,Kaede
+people.first_names,Kagami
+people.first_names,Kagehisa
+people.first_names,Kagemasa
+people.first_names,Kagome
 people.first_names,Kaho
+people.first_names,Kahoru
 people.first_names,Kai
+people.first_names,Kairi
 people.first_names,Kaito
+people.first_names,Kaiya
+people.first_names,Kajika
+people.first_names,Kakeru
+people.first_names,Kamui
 people.first_names,Kana
+people.first_names,Kanae
 people.first_names,Kanako
+people.first_names,Kaname
 people.first_names,Kanata
+people.first_names,Kankuro
 people.first_names,Kanna
 people.first_names,Kanon
+people.first_names,Kanzaburo
 people.first_names,Kaori
 people.first_names,Kaoru
+people.first_names,Kasumi
 people.first_names,Katsu
+people.first_names,Katsuhiro
+people.first_names,Katsuhito
 people.first_names,Katsuki
 people.first_names,Katsumi
 people.first_names,Katsuo
 people.first_names,Katsuro
 people.first_names,Katsuya
+people.first_names,Kazue
 people.first_names,Kazuha
 people.first_names,Kazuhiko
 people.first_names,Kazuhiro
+people.first_names,Kazuhito
 people.first_names,Kazuki
 people.first_names,Kazuko
+people.first_names,Kazuma
 people.first_names,Kazumasa
+people.first_names,Kazumi
 people.first_names,Kazunari
 people.first_names,Kazuo
-people.first_names,Kazuma
 people.first_names,Kazuya
 people.first_names,Kei
+people.first_names,Keiichi
 people.first_names,Keiji
 people.first_names,Keiko
 people.first_names,Keisuke
 people.first_names,Keita
+people.first_names,Keitaro
+people.first_names,Keito
 people.first_names,Ken
 people.first_names,Kengo
 people.first_names,Kenichi
 people.first_names,Kenji
 people.first_names,Kenjiro
+people.first_names,Kenkichi
 people.first_names,Kenma
+people.first_names,Kensaku
 people.first_names,Kenshin
+people.first_names,Kenshiro
 people.first_names,Kensuke
 people.first_names,Kenta
+people.first_names,Kentaro
 people.first_names,Kento
 people.first_names,Kenzo
 people.first_names,Kichiro
+people.first_names,Kikko
+people.first_names,Kiko
+people.first_names,Kiku
+people.first_names,Kikuko
+people.first_names,Kimiko
+people.first_names,Kimiya
+people.first_names,Kintaro
+people.first_names,Kiri
+people.first_names,Kirito
+people.first_names,Kisa
+people.first_names,Kisaburo
+people.first_names,Kishi
+people.first_names,Kiyo
 people.first_names,Kiyoko
 people.first_names,Kiyomi
+people.first_names,Kiyomitsu
 people.first_names,Kiyoshi
 people.first_names,Kiyotaka
 people.first_names,Kohaku
@@ -1315,15 +1517,27 @@ people.first_names,Koharu
 people.first_names,Kohei
 people.first_names,Koichi
 people.first_names,Koki
+people.first_names,Kokomi
+people.first_names,Koma
+people.first_names,Komachi
+people.first_names,Konami
+people.first_names,Konoka
+people.first_names,Koshiro
 people.first_names,Kota
 people.first_names,Kotaro
 people.first_names,Kotone
+people.first_names,Kotori
 people.first_names,Kouhei
 people.first_names,Kouki
 people.first_names,Kousei
 people.first_names,Kouta
+people.first_names,Koyomi
+people.first_names,Kumi
 people.first_names,Kumiko
+people.first_names,Kunihiro
 people.first_names,Kunio
+people.first_names,Kura
+people.first_names,Kuramitsu
 people.first_names,Kurumi
 people.first_names,Kyo
 people.first_names,Kyohei
@@ -1332,7 +1546,12 @@ people.first_names,Kyoka
 people.first_names,Kyoko
 people.first_names,Kyomi
 people.first_names,Kyosuke
+people.first_names,Kyotaro
+people.first_names,Maaya
+people.first_names,Machi
+people.first_names,Machiko
 people.first_names,Madoka
+people.first_names,Mafuyu
 people.first_names,Maho
 people.first_names,Mai
 people.first_names,Maiko
@@ -1373,6 +1592,7 @@ people.first_names,Minoru
 people.first_names,Mio
 people.first_names,Miori
 people.first_names,Misaki
+people.first_names,Misora
 people.first_names,Mitsuki
 people.first_names,Mitsuko
 people.first_names,Mitsuo
@@ -1486,7 +1706,6 @@ people.first_names,Sora
 people.first_names,Sosuke
 people.first_names,Sota
 people.first_names,Souta
-people.first_names,Suji
 people.first_names,Sumiko
 people.first_names,Sumire
 people.first_names,Susumu
@@ -1536,6 +1755,7 @@ people.first_names,Toshiko
 people.first_names,Toshio
 people.first_names,Toshiro
 people.first_names,Toshiyuki
+people.first_names,Touma
 people.first_names,Tsubasa
 people.first_names,Tsukasa
 people.first_names,Tsutomu
@@ -1597,38 +1817,51 @@ people.first_names,Zenjiro
 people.first_names,Zenko
 people.first_names,Zenta
 people.first_names,Zenzai
-people.first_names,Kairi
-people.first_names,Misora
-people.first_names,Touma
 people.last_names,Abe
 people.last_names,Adachi
+people.last_names,Agawa
 people.last_names,Akamatsu
+people.last_names,Akiba
 people.last_names,Akimoto
 people.last_names,Akiyama
 people.last_names,Amamiya
 people.last_names,Amari
+people.last_names,Amino
+people.last_names,Amori
 people.last_names,Andou
+people.last_names,Anzai
 people.last_names,Aoki
 people.last_names,Aoyama
 people.last_names,Arai
 people.last_names,Arakaki
 people.last_names,Arakawa
+people.last_names,Araki
+people.last_names,Arata
+people.last_names,Arisato
 people.last_names,Arisu
 people.last_names,Asahina
 people.last_names,Asai
+people.last_names,Asamitsu
 people.last_names,Asano
+people.last_names,Ashida
 people.last_names,Asuka
 people.last_names,Ayase
+people.last_names,Azuma
 people.last_names,Baba
+people.last_names,Ban
 people.last_names,Bando
 people.last_names,Chiba
-people.last_names,Chono
+people.last_names,Chinen
+people.last_names,Dan
 people.last_names,Date
 people.last_names,Doi
+people.last_names,Ebisawa
 people.last_names,Eguchi
 people.last_names,Endo
 people.last_names,Endou
 people.last_names,Enomoto
+people.last_names,Eto
+people.last_names,Fuchigami
 people.last_names,Fujii
 people.last_names,Fujimoto
 people.last_names,Fujinami
@@ -1637,31 +1870,44 @@ people.last_names,Fujiwara
 people.last_names,Fukuda
 people.last_names,Fukui
 people.last_names,Fukushima
+people.last_names,Funaki
 people.last_names,Furukawa
+people.last_names,Furuse
 people.last_names,Furuta
 people.last_names,Furuya
+people.last_names,Fuse
+people.last_names,Gomi
+people.last_names,Gonda
 people.last_names,Goto
+people.last_names,Hachisuka
+people.last_names,Hagiwara
 people.last_names,Hamada
+people.last_names,Hamamoto
 people.last_names,Hamasaki
-people.last_names,Hanari
 people.last_names,Handa
+people.last_names,Hanzawa
 people.last_names,Hara
 people.last_names,Harada
+people.last_names,Haraguchi
 people.last_names,Hasebe
 people.last_names,Hasegawa
 people.last_names,Hashimoto
 people.last_names,Hata
+people.last_names,Hatakeyama
 people.last_names,Hattori
 people.last_names,Hayami
 people.last_names,Hayashi
 people.last_names,Hayashida
+people.last_names,Hida
 people.last_names,Higa
+people.last_names,Higashiyama
 people.last_names,Higuchi
-people.last_names,Himura
 people.last_names,Hirai
+people.last_names,Hirakawa
 people.last_names,Hirano
 people.last_names,Hirata
 people.last_names,Hirayama
+people.last_names,Hironaka
 people.last_names,Hirose
 people.last_names,Hiruma
 people.last_names,Hokari
@@ -1671,12 +1917,16 @@ people.last_names,Hori
 people.last_names,Horiuchi
 people.last_names,Hoshikawa
 people.last_names,Hoshino
+people.last_names,Hoshizaki
 people.last_names,Hosokawa
-people.last_names,Ibushi
+people.last_names,Ichii
 people.last_names,Ichikawa
 people.last_names,Ichinose
 people.last_names,Igarashi
+people.last_names,Iguchi
 people.last_names,Iida
+people.last_names,Ijima
+people.last_names,Iino
 people.last_names,Ikeda
 people.last_names,Iki
 people.last_names,Imai
@@ -1684,6 +1934,8 @@ people.last_names,Imamura
 people.last_names,Inagaki
 people.last_names,Inoue
 people.last_names,Inugami
+people.last_names,Iokawa
+people.last_names,Ishibashi
 people.last_names,Ishida
 people.last_names,Ishihara
 people.last_names,Ishii
@@ -1695,15 +1947,19 @@ people.last_names,Iwata
 people.last_names,Izumi
 people.last_names,Kagawa
 people.last_names,Kagari
+people.last_names,Kajiwara
 people.last_names,Kamata
+people.last_names,Kameyama
 people.last_names,Kanda
 people.last_names,Kaneko
 people.last_names,Kano
 people.last_names,Kanzaki
+people.last_names,Kasahara
 people.last_names,Kasai
 people.last_names,Kasuga
 people.last_names,Katayama
 people.last_names,Kato
+people.last_names,Katori
 people.last_names,Katsumata
 people.last_names,Katsura
 people.last_names,Kawabata
@@ -1717,25 +1973,35 @@ people.last_names,Kawasaki
 people.last_names,Kazuraba
 people.last_names,Kida
 people.last_names,Kido
+people.last_names,Kihara
 people.last_names,Kikuchi
 people.last_names,Kikuta
 people.last_names,Kimura
 people.last_names,Kinoshita
-people.last_names,Kirana
 people.last_names,Kirishima
+people.last_names,Kishimoto
+people.last_names,Kita
 people.last_names,Kitagawa
 people.last_names,Kitamura
+people.last_names,Kitano
 people.last_names,Kobayashi
 people.last_names,Koda
 people.last_names,Koga
 people.last_names,Koike
+people.last_names,Koizumi
 people.last_names,Kojima
+people.last_names,Kokubo
 people.last_names,Komatsu
+people.last_names,Komori
 people.last_names,Kondo
+people.last_names,Konno
+people.last_names,Kosaka
 people.last_names,Koyama
 people.last_names,Kubo
+people.last_names,Kubota
 people.last_names,Kudo
 people.last_names,Kumagai
+people.last_names,Kuramoto
 people.last_names,Kurata
 people.last_names,Kurita
 people.last_names,Kuroda
@@ -1744,9 +2010,10 @@ people.last_names,Kuroki
 people.last_names,Kurosaki
 people.last_names,Kurosawa
 people.last_names,Kuwahara
+people.last_names,Kuzuryu
 people.last_names,Machida
 people.last_names,Maeda
-people.last_names,Makabe
+people.last_names,Maehara
 people.last_names,Makino
 people.last_names,Maruyama
 people.last_names,Mase
@@ -1756,16 +2023,21 @@ people.last_names,Matsuda
 people.last_names,Matsui
 people.last_names,Matsumoto
 people.last_names,Matsumura
+people.last_names,Matsunaga
 people.last_names,Matsuo
 people.last_names,Matsuoka
 people.last_names,Matsushita
 people.last_names,Matsutani
 people.last_names,Matsuura
 people.last_names,Matsuyama
+people.last_names,Mikami
 people.last_names,Minami
 people.last_names,Minamoto
-people.last_names,Misawa
+people.last_names,Mine
+people.last_names,Mita
 people.last_names,Miura
+people.last_names,Miya
+people.last_names,Miyagawa
 people.last_names,Miyake
 people.last_names,Miyamoto
 people.last_names,Miyashita
@@ -1775,25 +2047,34 @@ people.last_names,Miyoshi
 people.last_names,Mizuguchi
 people.last_names,Mizuno
 people.last_names,Mizushima
+people.last_names,Mizutani
 people.last_names,Mochizuki
+people.last_names,Momota
 people.last_names,Mori
 people.last_names,Moriguchi
 people.last_names,Morimoto
 people.last_names,Morino
 people.last_names,Morioka
+people.last_names,Morishita
 people.last_names,Morita
 people.last_names,Moriyama
+people.last_names,Motonaga
+people.last_names,Mukai
 people.last_names,Murakami
+people.last_names,Muramatsu
 people.last_names,Murano
 people.last_names,Murata
+people.last_names,Muto
 people.last_names,Mutoh
 people.last_names,Nagai
 people.last_names,Nagamura
 people.last_names,Naganuma
+people.last_names,Nagase
 people.last_names,Nagata
 people.last_names,Nakada
 people.last_names,Nakagawa
 people.last_names,Nakahara
+people.last_names,Nakai
 people.last_names,Nakajima
 people.last_names,Nakamura
 people.last_names,Nakanishi
@@ -1801,22 +2082,31 @@ people.last_names,Nakano
 people.last_names,Nakata
 people.last_names,Nakatani
 people.last_names,Nakayama
+people.last_names,Naoi
 people.last_names,Narita
 people.last_names,Naruse
+people.last_names,Nii
 people.last_names,Nishida
 people.last_names,Nishikawa
+people.last_names,Nishikido
 people.last_names,Nishimura
 people.last_names,Nishino
 people.last_names,Nishiyama
+people.last_names,Nitta
 people.last_names,Noda
 people.last_names,Noguchi
 people.last_names,Nomura
+people.last_names,Nozawa
+people.last_names,Numata
 people.last_names,Oba
+people.last_names,Ochi
 people.last_names,Oda
 people.last_names,Odagiri
 people.last_names,Ogata
 people.last_names,Ogawa
+people.last_names,Ogino
 people.last_names,Ohara
+people.last_names,Ohashi
 people.last_names,Oikawa
 people.last_names,Oishi
 people.last_names,Okabe
@@ -1824,59 +2114,98 @@ people.last_names,Okada
 people.last_names,Okamoto
 people.last_names,Okano
 people.last_names,Okazaki
+people.last_names,Okita
+people.last_names,Okubo
 people.last_names,Okuda
 people.last_names,Okumura
+people.last_names,Omi
 people.last_names,Omori
+people.last_names,Omura
 people.last_names,Ono
+people.last_names,Ootake
 people.last_names,Osada
+people.last_names,Osaki
 people.last_names,Oshima
 people.last_names,Ota
 people.last_names,Otsuka
 people.last_names,Otsuki
+people.last_names,Ozaki
+people.last_names,Ozawa
+people.last_names,Ryuzaki
+people.last_names,Saeki
 people.last_names,Sagara
 people.last_names,Saito
 people.last_names,Saitou
 people.last_names,Sakaguchi
 people.last_names,Sakai
 people.last_names,Sakamoto
+people.last_names,Sakata
 people.last_names,Sakurai
+people.last_names,Sameshima
+people.last_names,Sanada
 people.last_names,Sano
+people.last_names,Sasagawa
 people.last_names,Sasaki
 people.last_names,Sato
 people.last_names,Sawa
+people.last_names,Sawada
 people.last_names,Seki
+people.last_names,Sekiguchi
+people.last_names,Sera
+people.last_names,Seto
 people.last_names,Shibata
+people.last_names,Shiga
+people.last_names,Shima
 people.last_names,Shimada
+people.last_names,Shimamura
 people.last_names,Shimizu
 people.last_names,Shinguji
+people.last_names,Shinoda
 people.last_names,Shinohara
 people.last_names,Shirai
 people.last_names,Shiraishi
 people.last_names,Shirakawa
 people.last_names,Shirata
+people.last_names,Shiratori
+people.last_names,Shoda
+people.last_names,Sohma
 people.last_names,Sone
+people.last_names,Sugai
 people.last_names,Sugawara
 people.last_names,Sugimoto
 people.last_names,Sugita
+people.last_names,Sugiura
 people.last_names,Sugiyama
+people.last_names,Sunaga
+people.last_names,Suwa
 people.last_names,Suzuki
+people.last_names,Tabata
 people.last_names,Tachibana
+people.last_names,Tada
+people.last_names,Taguchi
+people.last_names,Tahara
+people.last_names,Taira
 people.last_names,Takabashi
 people.last_names,Takada
 people.last_names,Takagi
 people.last_names,Takahashi
 people.last_names,Takai
+people.last_names,Takakura
+people.last_names,Takamoto
+people.last_names,Takanashi
 people.last_names,Takano
+people.last_names,Takashima
 people.last_names,Takayama
 people.last_names,Takeda
+people.last_names,Takei
+people.last_names,Takemoto
 people.last_names,Takeuchi
 people.last_names,Tamura
+people.last_names,Tanabe
 people.last_names,Tanaka
 people.last_names,Tani
 people.last_names,Taniguchi
-people.last_names,Taue
-people.last_names,Tenryu
-people.last_names,Tenzan
+people.last_names,Terada
 people.last_names,Terashima
 people.last_names,Togawa
 people.last_names,Tokunaga
@@ -1931,9 +2260,6 @@ people.last_names,Yoshimura
 people.last_names,Yoshino
 people.last_names,Yoshioka
 people.last_names,Yuuki
-people.last_names,Hoshino
-people.last_names,Kanzaki
-people.last_names,Kamijo
 corporations.name_components.prefixes,Aero
 corporations.name_components.prefixes,Akari
 corporations.name_components.prefixes,Aki
@@ -2001,6 +2327,7 @@ corporations.name_components.prefixes,Kawa
 corporations.name_components.prefixes,Kaze
 corporations.name_components.prefixes,Kin
 corporations.name_components.prefixes,Kinetic
+corporations.name_components.prefixes,Kineto
 corporations.name_components.prefixes,Kitsune
 corporations.name_components.prefixes,Kometto
 corporations.name_components.prefixes,Kori
@@ -2092,6 +2419,7 @@ corporations.name_components.prefixes,Vanguard
 corporations.name_components.prefixes,Vector
 corporations.name_components.prefixes,Void
 corporations.name_components.prefixes,Voxel
+corporations.name_components.prefixes,Xeno
 corporations.name_components.prefixes,Yama
 corporations.name_components.prefixes,Yamato
 corporations.name_components.prefixes,Yami
@@ -2100,8 +2428,6 @@ corporations.name_components.prefixes,Yoru
 corporations.name_components.prefixes,Zen
 corporations.name_components.prefixes,Zenith
 corporations.name_components.prefixes,Zeta
-corporations.name_components.prefixes,Kineto
-corporations.name_components.prefixes,Xeno
 corporations.name_components.suffixes,Acoustics
 corporations.name_components.suffixes,Alliance
 corporations.name_components.suffixes,Analytics
@@ -2112,6 +2438,7 @@ corporations.name_components.suffixes,Associates
 corporations.name_components.suffixes,Atelier
 corporations.name_components.suffixes,Base
 corporations.name_components.suffixes,Beat
+corporations.name_components.suffixes,Bio
 corporations.name_components.suffixes,Blueprint
 corporations.name_components.suffixes,Branch
 corporations.name_components.suffixes,Broadcast
@@ -2198,6 +2525,7 @@ corporations.name_components.suffixes,Stream
 corporations.name_components.suffixes,Studio
 corporations.name_components.suffixes,Sync
 corporations.name_components.suffixes,Syndicate
+corporations.name_components.suffixes,Synthetic
 corporations.name_components.suffixes,System
 corporations.name_components.suffixes,Technologies
 corporations.name_components.suffixes,Transmission
@@ -2213,8 +2541,6 @@ corporations.name_components.suffixes,Visuals
 corporations.name_components.suffixes,Wave
 corporations.name_components.suffixes,Works
 corporations.name_components.suffixes,Zone
-corporations.name_components.suffixes,Bio
-corporations.name_components.suffixes,Synthetic
 corporations.name_components.organization_types,Agency
 corporations.name_components.organization_types,Alliance
 corporations.name_components.organization_types,Association
@@ -2278,6 +2604,7 @@ corporations.standalone_brands,KYUSHUX
 corporations.standalone_brands,MAPPEX
 corporations.standalone_brands,MEGANIPPON
 corporations.standalone_brands,MONOQ
+corporations.standalone_brands,NEONIP
 corporations.standalone_brands,NIPPOX
 corporations.standalone_brands,NIVANA
 corporations.standalone_brands,OKINAWATECH
@@ -2303,9 +2630,8 @@ corporations.standalone_brands,YAMATOX
 corporations.standalone_brands,YOKAIX
 corporations.standalone_brands,YOKOHAMAX
 corporations.standalone_brands,ZAIBATSUX
-corporations.standalone_brands,ZENTRA
-corporations.standalone_brands,NEONIP
 corporations.standalone_brands,ZENITHA
+corporations.standalone_brands,ZENTRA
 corporations.agencies,Akari Elite
 corporations.agencies,Alpha Agency
 corporations.agencies,Astra Talent
@@ -2408,6 +2734,7 @@ media.titles,Mirai Kaze
 media.titles,Moonlit Katana
 media.titles,Mugen Michi
 media.titles,Neon Shinobi
+media.titles,Neon Tokyo 2099
 media.titles,Night in Tokyo
 media.titles,Nova Ninja
 media.titles,Osaka Rain
@@ -2416,6 +2743,7 @@ media.titles,Pixel Samurai
 media.titles,Plasma Shogun
 media.titles,Quantum Koto
 media.titles,Rise of the Yokai
+media.titles,Sakura no Ki
 media.titles,Seishun Namida
 media.titles,Sennen Yoru
 media.titles,Shadow Sakura
@@ -2428,6 +2756,7 @@ media.titles,Stellar Sake
 media.titles,Sun of the Empire
 media.titles,Tears of the Geisha
 media.titles,Techno Matsuri
+media.titles,The Last Kitsune
 media.titles,The Last Samurai
 media.titles,The Ronin's Path
 media.titles,The Shogun's Blade
@@ -2438,6 +2767,3 @@ media.titles,Void Walker
 media.titles,Whispers of the Shrine
 media.titles,Winds of Hokkaido
 media.titles,Yoru Sakura
-media.titles,Sakura no Ki
-media.titles,Neon Tokyo 2099
-media.titles,The Last Kitsune
