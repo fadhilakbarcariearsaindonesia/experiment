@@ -1,23 +1,33 @@
 key,value
-metadata.version,1.2.1
-metadata.last_updated,2026-05-12
+metadata.version,1.3.1
+metadata.last_updated,2026-05-17
 metadata.author,Fadhil Akbar Cariearsa
 metadata.license,MIT
 metadata.category,Indonesian Fictional Names
 metadata.description,A 100% fictional and copyright-free Indonesian naming dataset for universal use.
+people.full_names,Aaron Setiawan
+people.full_names,Abas Pratama
 people.full_names,Abdi Nugraha
 people.full_names,Abdul Hakim
+people.full_names,Abdul Rahman
+people.full_names,Abidzar Alghifari
 people.full_names,Abidzar Putra
 people.full_names,Abimanyu Wijaya
+people.full_names,Abraham Kusuma
 people.full_names,Achmad Fauzi
+people.full_names,Achmad Jaelani
+people.full_names,Adam Wijaya
 people.full_names,Ade Saputra
 people.full_names,Adelia Wulandari
 people.full_names,Adhi Karyo
+people.full_names,Adhiyaksa Putra
 people.full_names,Adikara Falah
 people.full_names,Adil Wicaksono
 people.full_names,Aditya Pratama
 people.full_names,Adnan Maulana
+people.full_names,Affan Maulana
 people.full_names,Afifah Ningsih
+people.full_names,Agastya Wibowo
 people.full_names,Agil Kusuma
 people.full_names,Agung Nugroho
 people.full_names,Agus Setiawan
@@ -74,45 +84,65 @@ people.full_names,Ayu Pratiwi
 people.full_names,Ayu Tyas
 people.full_names,Azis Gunawan
 people.full_names,Azka Pratama
+people.full_names,Bagas Haryanto
 people.full_names,Bagas Kuncoro
 people.full_names,Bagas Mahardika
 people.full_names,Bagaskara Putra
+people.full_names,Bagaskara Wijaya
 people.full_names,Bagus Kurniawan
+people.full_names,Bagus Setiawan
+people.full_names,Baharuddin Anwar
 people.full_names,Baharuddin Lubis
 people.full_names,Baharuddin Siregar
+people.full_names,Bahri Anwar
 people.full_names,Bahrul Ulum
 people.full_names,Baim Wibowo
+people.full_names,Bakti Pambudi
 people.full_names,Bakti Perkasa
 people.full_names,Baktiar Hutagalung
 people.full_names,Bambang Purnomo
 people.full_names,Bambang Sudrajat
+people.full_names,Bambang Suryana
+people.full_names,Bani Adam
 people.full_names,Bani Maulana
 people.full_names,Banu Antoro
+people.full_names,Banu Prasetyo
 people.full_names,Banyu Baskoro
+people.full_names,Banyu Biru
 people.full_names,Bara Tarigan
+people.full_names,Baskara Mulyadi
 people.full_names,Baskoro Yudhoyono
 people.full_names,Bastian Surya
 people.full_names,Basuki Tjahyono
 people.full_names,Bayu Adisaputra
+people.full_names,Bayu Anggara
+people.full_names,Bayu Firmansyah
 people.full_names,Bayu Setiawan
 people.full_names,Bayuaji Kusuma
 people.full_names,Beby Permatasari
 people.full_names,Berliana Putri
 people.full_names,Bima Arya
+people.full_names,Bima Aryanto
 people.full_names,Bima Saputra
 people.full_names,Bintang Erlangga
+people.full_names,Bintang Nugroho
 people.full_names,Bintang Ramadhan
 people.full_names,Bobby Naufal
 people.full_names,Bobby Pratama
+people.full_names,Bobby Setiawan
 people.full_names,Bonar Sirait
 people.full_names,Boris Marpaung
 people.full_names,Boy Wibowo
 people.full_names,Bramantyo Kusuma
 people.full_names,Budi Andika
+people.full_names,Budi Santoso
+people.full_names,Budi Wibowo
 people.full_names,Budianto Gunawan
 people.full_names,Bunga Citra
 people.full_names,Bunga Larasati
 people.full_names,Bunga Lestari
+people.full_names,Caca Handayani
+people.full_names,Cahaya Mutiara
 people.full_names,Cahaya Ningsih
 people.full_names,Cahaya Purnama
 people.full_names,Cahya Kamila
@@ -120,12 +150,15 @@ people.full_names,Cahyadi Putra
 people.full_names,Cahyani Putri
 people.full_names,Cahyo Kencana
 people.full_names,Cakra Kencana
+people.full_names,Cakra Wibowo
 people.full_names,Candra Darusman
 people.full_names,Candra Kusuma
+people.full_names,Candra Pambudi
 people.full_names,Candra Wijaya
 people.full_names,Cantika Abigail
 people.full_names,Cantika Prameswari
 people.full_names,Catur Pamungkas
+people.full_names,Catur Prasetyo
 people.full_names,Celine Kusuma
 people.full_names,Chelsea Kirana
 people.full_names,Chika Jessica
@@ -133,32 +166,47 @@ people.full_names,Chintya Sari
 people.full_names,Cici Paramida
 people.full_names,Cici Permata
 people.full_names,Cici Permatasari
+people.full_names,Cindy Larasati
 people.full_names,Cipta Panca
+people.full_names,Cipto Wibisono
 people.full_names,Cita Rahayu
 people.full_names,Cita Wulandari
 people.full_names,Citra Kirana
 people.full_names,Citra Lestari
+people.full_names,Citra Maharani
+people.full_names,Clara Permata
 people.full_names,Clara Safira
 people.full_names,Cokro Aminoto
+people.full_names,Cut Mutia
 people.full_names,Cut Tiara
+people.full_names,Daffa Ardiansyah
 people.full_names,Daffa Mahendra
 people.full_names,Daffa Wardhana
 people.full_names,Dahlan Iskandar
 people.full_names,Damar Wibisono
+people.full_names,Damar Wibowo
 people.full_names,Danang Kusuma
+people.full_names,Danang Sutawijaya
 people.full_names,Danang Wibisono
 people.full_names,Dandi Maulana
+people.full_names,Dandi Saputra
 people.full_names,Daniel Pratama
+people.full_names,Daniel Wibisono
+people.full_names,Danu Setiawan
 people.full_names,Danu Umbara
 people.full_names,Dara Permata
+people.full_names,Dara Prameswari
 people.full_names,Dara Rizki
 people.full_names,Darmawan Kusuma
 people.full_names,Darmawan Salihin
+people.full_names,Darmawan Susanto
 people.full_names,Darto Hermawan
 people.full_names,Darwis Triadi
 people.full_names,David Chalik
+people.full_names,David Maulana
 people.full_names,David Saputra
 people.full_names,Davina Larasati
+people.full_names,Dede Firmansyah
 people.full_names,Dede Pratama
 people.full_names,Dede Sunandar
 people.full_names,Dede Yulianto
@@ -214,28 +262,38 @@ people.full_names,Dwi Saputra
 people.full_names,Dwi Sasono
 people.full_names,Dwiarti Ningsih
 people.full_names,Dzaky Asraf
+people.full_names,Edi Mulyono
 people.full_names,Edi Sudradjat
 people.full_names,Edwin Pratama
+people.full_names,Edwin Setiawan
 people.full_names,Ega Kusuma
 people.full_names,Eka Kurniawan
 people.full_names,Eka Kusuma
+people.full_names,Eka Putra
 people.full_names,Eka Putriani
 people.full_names,Eka Wulandari
 people.full_names,Eko Patria
 people.full_names,Eko Prasetyo
 people.full_names,Eko Saputra
+people.full_names,Eko Wibowo
 people.full_names,Elang Mahendra
 people.full_names,Elang Pamungkas
+people.full_names,Elang Perkasa
 people.full_names,Elisa Permata
+people.full_names,Elisa Safira
+people.full_names,Elsa Ningsih
 people.full_names,Elsa Safira
 people.full_names,Elvira Devinamira
 people.full_names,Elvira Ningsih
 people.full_names,Eman Sulaeman
+people.full_names,Emi Fitriani
 people.full_names,Emi Nurhayati
 people.full_names,Emil Daniswara
+people.full_names,Emil Maulana
 people.full_names,Emilia Sari
 people.full_names,Endah Pratiwi
 people.full_names,Endah Respati
+people.full_names,Endah Warni
 people.full_names,Endang Lestari
 people.full_names,Endang Suryati
 people.full_names,Enrico Wijaya
@@ -259,24 +317,34 @@ people.full_names,Evi Masamba
 people.full_names,Evi Permata
 people.full_names,Ezra Pratama
 people.full_names,Fadel Kusuma
+people.full_names,Fadel Pratama
 people.full_names,Fadhil Akbar
 people.full_names,Fadhil Mahendra
+people.full_names,Fadhil Mulyadi
 people.full_names,Fadia Larasati
+people.full_names,Fadia Safira
 people.full_names,Fadil Jaelani
+people.full_names,Fadil Kuswanto
 people.full_names,Fadil Pratama
+people.full_names,Fadli Wibisono
 people.full_names,Fadli Wibowo
 people.full_names,Fadli Zaelani
 people.full_names,Fahmi Bustomi
 people.full_names,Fahmi Hidayatullah
 people.full_names,Fahmi Saputra
+people.full_names,Fahmi Setiawan
 people.full_names,Faisal Basri
 people.full_names,Faisal Hidayat
+people.full_names,Faisal Rahman
 people.full_names,Fajar Alfian
+people.full_names,Fajar Heryanto
 people.full_names,Fajar Hidayat
 people.full_names,Fajar Kusuma
 people.full_names,Fakhri Husaini
+people.full_names,Fakhri Maulana
 people.full_names,Fakhri Pratama
 people.full_names,Fani Cahyadi
+people.full_names,Fani Maharani
 people.full_names,Fani Permata
 people.full_names,Farah Nabila
 people.full_names,Farah Qonita
@@ -335,13 +403,16 @@ people.full_names,Gading Kusuma
 people.full_names,Gading Martinus
 people.full_names,Gahara Putra
 people.full_names,Galang Dirgantara
+people.full_names,Galang Mulyadi
 people.full_names,Galang Pratama
 people.full_names,Galang Rambu
+people.full_names,Galih Firmansyah
 people.full_names,Galih Ginanjar
 people.full_names,Galih Mahendra
 people.full_names,Galih Purnama
 people.full_names,Ganjar Kusuma
 people.full_names,Ganjar Pramono
+people.full_names,Ganjar Wibowo
 people.full_names,Garry Iskandar
 people.full_names,Garry Pratama
 people.full_names,Gatot Kusuma
@@ -354,17 +425,24 @@ people.full_names,Geni Faruq
 people.full_names,Geni Wulandari
 people.full_names,Gerry Iskandar
 people.full_names,Gerry Kusuma
+people.full_names,Gerry Saputra
 people.full_names,Gilang Dirgantara
 people.full_names,Gilang Mahendra
 people.full_names,Gilang Permana
+people.full_names,Gilang Ramadhan
 people.full_names,Ginanjar Kusuma
+people.full_names,Ginanjar Pratama
 people.full_names,Ginanjar Saputra
+people.full_names,Giring Kuswanto
 people.full_names,Giring Pratama
 people.full_names,Giring Wibowo
 people.full_names,Gita Gunawan
 people.full_names,Gita Larasati
+people.full_names,Gita Maharani
 people.full_names,Grace Nabila
 people.full_names,Grace Permata
+people.full_names,Grace Wulandari
+people.full_names,Gritte Safira
 people.full_names,Gritte Sari
 people.full_names,Gritte Wulandari
 people.full_names,Gumilar Akbar
@@ -376,10 +454,12 @@ people.full_names,Guntur Saputra
 people.full_names,Gusti Kusuma
 people.full_names,Gusti Ramadhan
 people.full_names,Habibi Kusuma
+people.full_names,Hadi Firmansyah
 people.full_names,Hadi Mulyadi
 people.full_names,Hadi Pratama
 people.full_names,Hadi Tjahyono
 people.full_names,Hafiz Mahendra
+people.full_names,Hafiz Setiawan
 people.full_names,Hafiz Sujad
 people.full_names,Hakim Maulana
 people.full_names,Halim Perdanakusuma
@@ -1228,22 +1308,31 @@ people.full_names,Zulfa Maharani
 people.full_names,Zulfikar Hakim
 people.full_names,Zulkarnaini Harahap
 people.full_names,Zulkifli Hakim
+people.first_names,Aaron
+people.first_names,Abas
 people.first_names,Abdi
 people.first_names,Abdul
 people.first_names,Abidzar
 people.first_names,Abieza
 people.first_names,Abimanyu
+people.first_names,Abraham
 people.first_names,Achmad
+people.first_names,Adam
 people.first_names,Ade
 people.first_names,Adelia
+people.first_names,Adeline
 people.first_names,Adhi
+people.first_names,Adhiyaksa
 people.first_names,Adikara
 people.first_names,Adil
 people.first_names,Aditya
 people.first_names,Adnan
+people.first_names,Affan
 people.first_names,Afif
 people.first_names,Afifah
+people.first_names,Agastya
 people.first_names,Agil
+people.first_names,Agni
 people.first_names,Agung
 people.first_names,Agus
 people.first_names,Ahmad
@@ -1256,14 +1345,18 @@ people.first_names,Aldo
 people.first_names,Alfian
 people.first_names,Ali
 people.first_names,Alif
+people.first_names,Alifa
 people.first_names,Alika
+people.first_names,Alim
 people.first_names,Aliyah
 people.first_names,Alvin
 people.first_names,Amalia
 people.first_names,Amanda
 people.first_names,Amelia
 people.first_names,Amin
+people.first_names,Aminah
 people.first_names,Amir
+people.first_names,Amira
 people.first_names,Ammar
 people.first_names,Anang
 people.first_names,Ananda
@@ -1277,6 +1370,7 @@ people.first_names,Anggi
 people.first_names,Anindya
 people.first_names,Anisa
 people.first_names,Anita
+people.first_names,Anjas
 people.first_names,Annisa
 people.first_names,Anton
 people.first_names,Anwar
@@ -1285,6 +1379,7 @@ people.first_names,Ardian
 people.first_names,Ari
 people.first_names,Arianto
 people.first_names,Arief
+people.first_names,Arini
 people.first_names,Ario
 people.first_names,Aris
 people.first_names,Arjuna
@@ -1297,12 +1392,15 @@ people.first_names,Aurel
 people.first_names,Aurelia
 people.first_names,Ayu
 people.first_names,Azis
+people.first_names,Aziz
 people.first_names,Azka
 people.first_names,Bagas
 people.first_names,Bagaskara
 people.first_names,Bagus
 people.first_names,Bahar
+people.first_names,Baharuddin
 people.first_names,Bahrul
+people.first_names,Bahri
 people.first_names,Bakti
 people.first_names,Bambang
 people.first_names,Bani
@@ -1310,17 +1408,21 @@ people.first_names,Banu
 people.first_names,Banyu
 people.first_names,Banyuaji
 people.first_names,Bara
+people.first_names,Baskara
 people.first_names,Baskoro
 people.first_names,Basuki
 people.first_names,Bayu
+people.first_names,Bella
 people.first_names,Berliana
 people.first_names,Bima
 people.first_names,Bintang
 people.first_names,Bobby
 people.first_names,Boris
+people.first_names,Brama
 people.first_names,Bramantyo
 people.first_names,Budi
 people.first_names,Bunga
+people.first_names,Caca
 people.first_names,Cahya
 people.first_names,Cahyani
 people.first_names,Cahyo
@@ -1335,6 +1437,7 @@ people.first_names,Chika
 people.first_names,Chintya
 people.first_names,Cici
 people.first_names,Cika
+people.first_names,Cindy
 people.first_names,Cipta
 people.first_names,Cipto
 people.first_names,Cita
@@ -1422,6 +1525,7 @@ people.first_names,Estiningtyas
 people.first_names,Euis
 people.first_names,Eva
 people.first_names,Evi
+people.first_names,Eza
 people.first_names,Ezra
 people.first_names,Fadel
 people.first_names,Fadhil
@@ -1762,6 +1866,7 @@ people.first_names,Opik
 people.first_names,Osa
 people.first_names,Oscar
 people.first_names,Ovan
+people.first_names,Ozy
 people.first_names,Pahlevi
 people.first_names,Paiman
 people.first_names,Pamela
@@ -1805,6 +1910,10 @@ people.first_names,Qonita
 people.first_names,Qori
 people.first_names,Qorina
 people.first_names,Qotrunnada
+people.first_names,Queen
+people.first_names,Qurota
+people.first_names,Qusyairi
+people.first_names,Quthb
 people.first_names,Rachel
 people.first_names,Rachmat
 people.first_names,Raden
@@ -2243,6 +2352,7 @@ people.last_names,Basuki
 people.last_names,Bayu
 people.last_names,Besari
 people.last_names,Bimasakti
+people.last_names,Biru
 people.last_names,Bowo
 people.last_names,Budi
 people.last_names,Budiman
@@ -2377,6 +2487,7 @@ people.last_names,Kusumanegara
 people.last_names,Kusumaningrum
 people.last_names,Kusumawati
 people.last_names,Kusumodjojo
+people.last_names,Kuswanto
 people.last_names,Laksana
 people.last_names,Laksamana
 people.last_names,Laksono
@@ -2413,11 +2524,13 @@ people.last_names,Mukhlis
 people.last_names,Mulyadi
 people.last_names,Mulyana
 people.last_names,Mulyani
+people.last_names,Mulyono
 people.last_names,Munandar
 people.last_names,Munir
 people.last_names,Mustofa
 people.last_names,Mutaqin
 people.last_names,Muttaqin
+people.last_names,Mutiara
 people.last_names,Muzakki
 people.last_names,Nabila
 people.last_names,Nadapdap
@@ -2523,6 +2636,7 @@ people.last_names,Ruslan
 people.last_names,Rustandi
 people.last_names,Sabari
 people.last_names,Sabil
+people.last_names,Sadat
 people.last_names,Sadhewa
 people.last_names,Sadikin
 people.last_names,Safaruddin
@@ -2593,6 +2707,7 @@ people.last_names,Suryadi
 people.last_names,Suryakusuma
 people.last_names,Suryana
 people.last_names,Susanto
+people.last_names,Sutawijaya
 people.last_names,Syah
 people.last_names,Syahputra
 people.last_names,Syahrir
@@ -2612,6 +2727,7 @@ people.last_names,Taufiq
 people.last_names,Thamrin
 people.last_names,Tjokrodiningrat
 people.last_names,Tobing
+people.last_names,Trisno
 people.last_names,Triyanto
 people.last_names,Tropica
 people.last_names,Tsabina
@@ -2632,6 +2748,7 @@ people.last_names,Waluyo
 people.last_names,Wardana
 people.last_names,Wardhana
 people.last_names,Wardhani
+people.last_names,Warni
 people.last_names,Wibisono
 people.last_names,Wibowo
 people.last_names,Wicaksono
