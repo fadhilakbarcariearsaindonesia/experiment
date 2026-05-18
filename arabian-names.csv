@@ -1,6 +1,6 @@
 Key,Value
-metadata.version,1.3.0
-metadata.last_updated,2026-05-17
+metadata.version,1.5.3
+metadata.last_updated,2026-05-18
 metadata.author,Fadhil Akbar Cariearsa
 metadata.license,MIT
 metadata.category,Arabic Fictional Names
@@ -9,99 +9,143 @@ people.full_names,Aabid Al-Fakhir
 people.full_names,Aamir Al-Faheem
 people.full_names,Aatik Al-Halim
 people.full_names,Abbas Mansour
+people.full_names,Abbud Al-Azzawi
 people.full_names,Abdelrahman Al-Fayed
 people.full_names,Abdullah Al-Kaabi
 people.full_names,Abeer Al-Mahdi
 people.full_names,Adel Al-Fayegh
 people.full_names,Adham Al-Akkad
+people.full_names,Adib Al-Barzanji
 people.full_names,Adnan Al-Tayeb
 people.full_names,Afaf Al-Khayyat
+people.full_names,Afnan Al-Chalabi
+people.full_names,Ahlam Al-Dawood
 people.full_names,Ahmad Al-Rashid
 people.full_names,Aisha Al-Hassan
 people.full_names,Akram Al-Saidi
+people.full_names,Alaa Al-Dulaimi
 people.full_names,Ali Al-Mansoori
 people.full_names,Alia Al-Madani
+people.full_names,Alya Al-Enezi
 people.full_names,Amal Al-Mutairi
 people.full_names,Amani Al-Kahali
 people.full_names,Amin Al-Baghdadi
 people.full_names,Amina Al-Ghazali
 people.full_names,Amir Al-Jabari
 people.full_names,Amira Al-Zahrani
+people.full_names,Amjad Al-Eshaiqer
 people.full_names,Ammar Al-Kassem
 people.full_names,Anas Al-Masri
+people.full_names,Aniq Al-Fartousi
 people.full_names,Anwar Al-Khatib
 people.full_names,Aref Al-Kattan
+people.full_names,Arwa Al-Gailani
 people.full_names,Asad Al-Farsi
+people.full_names,Asil Al-Haboubi
 people.full_names,Asim Al-Bustani
 people.full_names,Asma Al-Tamimi
 people.full_names,Aya Al-Zayani
+people.full_names,Ayham Al-Jadirji
 people.full_names,Ayman Al-Hakim
 people.full_names,Ayoub Al-Darwish
 people.full_names,Aza Al-Ahmar
+people.full_names,Azhar Al-Jalili
 people.full_names,Aziz Al-Nasser
+people.full_names,Badi Al-Kadhimi
 people.full_names,Badia Al-Ibtisam
 people.full_names,Badr Al-Basha
 people.full_names,Baha Al-Rawi
 people.full_names,Bahij Al-Ghali
+people.full_names,Bahir Al-Khafaji
+people.full_names,Bahiyya Al-Makhzoumi
 people.full_names,Bakr Al-Alawi
+people.full_names,Baligh Al-Naqib
 people.full_names,Bandar Al-Kanaan
+people.full_names,Bara Al-Obeidi
 people.full_names,Baraa Al-Attar
 people.full_names,Bashar Al-Safi
 people.full_names,Basel Al-Awlaki
+people.full_names,Basil Al-Pachachi
 people.full_names,Bassel Al-Rifai
 people.full_names,Bassam Al-Badawi
 people.full_names,Bassem Al-Haddad
+people.full_names,Batin Al-Quraishi
 people.full_names,Batoul Al-Halabi
 people.full_names,Bilal Al-Ansari
+people.full_names,Bishr Al-Shabibi
 people.full_names,Boutros Al-Ghalib
+people.full_names,Burhan Al-Tabatabaei
 people.full_names,Bushra Al-Kuwari
+people.full_names,Chaker Al-Uthaimin
+people.full_names,Chawqi Al-Ward
+people.full_names,Dabir Al-Yassiri
 people.full_names,Dalal Al-Madani
 people.full_names,Dalia Al-Hilli
+people.full_names,Dalil Al-Yawar
 people.full_names,Dana Al-Jassim
+people.full_names,Dani Al-Zahawi
+people.full_names,Daniyah Al-Zubaidi
 people.full_names,Danya Al-Hajri
+people.full_names,Daud Al-Atrash
 people.full_names,Dawoud Al-Iraqi
 people.full_names,Deema Al-Shanfari
 people.full_names,Dhafir Al-Iqbal
+people.full_names,Dhul Al-Bitar
 people.full_names,Dima Al-Farouq
 people.full_names,Dina Al-Subaie
 people.full_names,Dirar Al-Fasi
 people.full_names,Diya Al-Badi
+people.full_names,Duha Al-Duri
 people.full_names,Dujan Al-Khair
 people.full_names,Ehab Al-Rubaie
 people.full_names,Eisa Al-Jibril
 people.full_names,Elias Al-Khouri
 people.full_names,Eman Al-Turki
 people.full_names,Essam Al-Ghalib
+people.full_names,Ezz Al-Gosaibi
 people.full_names,Ezzat Al-Habsi
+people.full_names,Fadel Al-Haj
 people.full_names,Fadi Al-Azzam
 people.full_names,Fadi Al-Shami
 people.full_names,Fadil Al-Jabri
+people.full_names,Fadila Al-Jaber
 people.full_names,Fadwa Al-Shehhi
 people.full_names,Fahad Al-Shammari
 people.full_names,Fahd Al-Haddadi
 people.full_names,Faheem Al-Labib
 people.full_names,Faisal Al-Otaibi
+people.full_names,Faiza Al-Khouri
 people.full_names,Fakhir Al-Aabid
+people.full_names,Fakhr Al-Labban
 people.full_names,Farah Al-Awadi
 people.full_names,Farah Al-Hussein
 people.full_names,Fareed Al-Jaleel
 people.full_names,Fares Al-Idrisi
 people.full_names,Farid Al-Abbas
 people.full_names,Faris Al-Nasser
+people.full_names,Faruq Al-Maqdisi
+people.full_names,Fath Al-Nabulsi
 people.full_names,Fathi Al-Irfan
+people.full_names,Fatin Al-Otaibi
 people.full_names,Fatima Al-Fahad
 people.full_names,Fawaz Al-Jalali
 people.full_names,Fawzi Al-Kibsi
+people.full_names,Fawziyya Al-Qaradawi
+people.full_names,Fida Al-Rashed
 people.full_names,Fikri Al-Hamdi
 people.full_names,Firas Al-Kinani
+people.full_names,Firdaus Al-Sadr
 people.full_names,Fouad Al-Ayoubi
+people.full_names,Fuad Al-Tuwaijri
 people.full_names,Ghada Al-Kurdi
 people.full_names,Ghaith Al-Mabrouk
 people.full_names,Ghaleb Al-Malki
 people.full_names,Ghali Al-Bandar
 people.full_names,Ghalia Al-Busaidi
 people.full_names,Ghassan Al-Kanafani
+people.full_names,Ghayda Al-Ubaydi
 people.full_names,Ghazal Al-Hashimi
+people.full_names,Ghazala Al-Wahhab
 people.full_names,Ghazi Al-Waeli
 people.full_names,Ghufran Al-Lamees
 people.full_names,Habib Al-Zayyat
@@ -109,12 +153,14 @@ people.full_names,Habiba Al-Sayed
 people.full_names,Haddad Al-Haddad
 people.full_names,Hadi Al-Amiri
 people.full_names,Hafiz Al-Sayed
+people.full_names,Hafsa Al-Yafi
 people.full_names,Haifa Al-Majed
 people.full_names,Haitham Al-Haris
 people.full_names,Hakam Al-Harthy
 people.full_names,Hakim Al-Makhzoumi
 people.full_names,Hala Al-Najjar
 people.full_names,Halim Al-Kadhim
+people.full_names,Halima Al-Zayyat
 people.full_names,Hamad Al-Khouri
 people.full_names,Hamdan Al-Naimi
 people.full_names,Hamdi Al-Fathi
@@ -124,13 +170,16 @@ people.full_names,Hana Al-Safi
 people.full_names,Hanan Al-Dossari
 people.full_names,Hani Al-Qasim
 people.full_names,Haris Al-Haitham
+people.full_names,Hasan Al-Azzawi
 people.full_names,Hashim Al-Saadi
+people.full_names,Hasib Al-Barzanji
 people.full_names,Hassan Al-Basri
 people.full_names,Hassan Al-Safi
 people.full_names,Hatem Al-Adel
 people.full_names,Hatem Al-Taie
 people.full_names,Hatim Al-Aamir
 people.full_names,Hawa Al-Afifi
+people.full_names,Haydar Al-Chalabi
 people.full_names,Hazem Al-Bayati
 people.full_names,Heba Al-Qasimi
 people.full_names,Hilal Al-Kaabi
@@ -440,97 +489,141 @@ people.first_names,Aabid
 people.first_names,Aamir
 people.first_names,Aatik
 people.first_names,Abbas
+people.first_names,Abbud
 people.first_names,Abdelrahman
 people.first_names,Abdullah
 people.first_names,Abeer
 people.first_names,Adel
 people.first_names,Adham
+people.first_names,Adib
 people.first_names,Adnan
 people.first_names,Afaf
+people.first_names,Afnan
+people.first_names,Ahlam
 people.first_names,Ahmad
 people.first_names,Aisha
 people.first_names,Akram
+people.first_names,Alaa
 people.first_names,Ali
 people.first_names,Alia
+people.first_names,Alya
 people.first_names,Amal
 people.first_names,Amani
 people.first_names,Amin
 people.first_names,Amina
 people.first_names,Amir
 people.first_names,Amira
+people.first_names,Amjad
 people.first_names,Ammar
 people.first_names,Anas
+people.first_names,Aniq
 people.first_names,Anwar
 people.first_names,Aref
+people.first_names,Arwa
 people.first_names,Asad
+people.first_names,Asil
 people.first_names,Asim
 people.first_names,Asma
 people.first_names,Aya
+people.first_names,Ayham
 people.first_names,Ayman
 people.first_names,Ayoub
 people.first_names,Aza
+people.first_names,Azhar
 people.first_names,Aziz
+people.first_names,Badi
 people.first_names,Badia
 people.first_names,Badr
 people.first_names,Baha
 people.first_names,Bahij
+people.first_names,Bahir
+people.first_names,Bahiyya
 people.first_names,Bakr
+people.first_names,Baligh
 people.first_names,Bandar
+people.first_names,Bara
 people.first_names,Baraa
 people.first_names,Bashar
 people.first_names,Basel
+people.first_names,Basil
 people.first_names,Bassel
 people.first_names,Bassam
 people.first_names,Bassem
+people.first_names,Batin
 people.first_names,Batoul
 people.first_names,Bilal
+people.first_names,Bishr
 people.first_names,Boutros
+people.first_names,Burhan
 people.first_names,Bushra
+people.first_names,Chaker
+people.first_names,Chawqi
+people.first_names,Dabir
 people.first_names,Dalal
 people.first_names,Dalia
+people.first_names,Dalil
 people.first_names,Dana
+people.first_names,Dani
+people.first_names,Daniyah
 people.first_names,Danya
+people.first_names,Daud
 people.first_names,Dawoud
 people.first_names,Deema
 people.first_names,Dhafir
+people.first_names,Dhul
 people.first_names,Dima
 people.first_names,Dina
 people.first_names,Dirar
 people.first_names,Diya
+people.first_names,Duha
 people.first_names,Dujan
 people.first_names,Ehab
 people.first_names,Eisa
 people.first_names,Elias
 people.first_names,Eman
 people.first_names,Essam
+people.first_names,Ezz
 people.first_names,Ezzat
+people.first_names,Fadel
 people.first_names,Fadi
 people.first_names,Fadil
+people.first_names,Fadila
 people.first_names,Fadwa
 people.first_names,Fahad
 people.first_names,Fahd
 people.first_names,Faheem
 people.first_names,Faisal
+people.first_names,Faiza
 people.first_names,Fakhir
+people.first_names,Fakhr
 people.first_names,Farah
 people.first_names,Fareed
 people.first_names,Fares
 people.first_names,Farid
 people.first_names,Faris
+people.first_names,Faruq
+people.first_names,Fath
 people.first_names,Fathi
+people.first_names,Fatin
 people.first_names,Fatima
 people.first_names,Fawaz
 people.first_names,Fawzi
+people.first_names,Fawziyya
+people.first_names,Fida
 people.first_names,Fikri
 people.first_names,Firas
+people.first_names,Firdaus
 people.first_names,Fouad
+people.first_names,Fuad
 people.first_names,Ghada
 people.first_names,Ghaith
 people.first_names,Ghaleb
 people.first_names,Ghali
 people.first_names,Ghalia
 people.first_names,Ghassan
+people.first_names,Ghayda
 people.first_names,Ghazal
+people.first_names,Ghazala
 people.first_names,Ghazi
 people.first_names,Ghufran
 people.first_names,Habib
@@ -538,12 +631,14 @@ people.first_names,Habiba
 people.first_names,Haddad
 people.first_names,Hadi
 people.first_names,Hafiz
+people.first_names,Hafsa
 people.first_names,Haifa
 people.first_names,Haitham
 people.first_names,Hakam
 people.first_names,Hakim
 people.first_names,Hala
 people.first_names,Halim
+people.first_names,Halima
 people.first_names,Hamad
 people.first_names,Hamdan
 people.first_names,Hamdi
@@ -552,11 +647,14 @@ people.first_names,Hana
 people.first_names,Hanan
 people.first_names,Hani
 people.first_names,Haris
+people.first_names,Hasan
 people.first_names,Hashim
+people.first_names,Hasib
 people.first_names,Hassan
 people.first_names,Hatem
 people.first_names,Hatim
 people.first_names,Hawa
+people.first_names,Haydar
 people.first_names,Hazem
 people.first_names,Heba
 people.first_names,Hilal
@@ -721,8 +819,8 @@ people.first_names,Rola
 people.first_names,Ruba
 people.first_names,Ruqayya
 people.first_names,Saad
-people.first_names,Sabah
 people.first_names,Saber
+people.first_names,Sabah
 people.first_names,Sabina
 people.first_names,Safa
 people.first_names,Safwan
@@ -827,6 +925,7 @@ people.last_names,Al-Arabi
 people.last_names,Al-Ashqar
 people.last_names,Al-Askar
 people.last_names,Al-Asmari
+people.last_names,Al-Atrash
 people.last_names,Al-Attar
 people.last_names,Al-Awadi
 people.last_names,Al-Awlaki
@@ -835,6 +934,7 @@ people.last_names,Al-Ayoubi
 people.last_names,Al-Azm
 people.last_names,Al-Azhari
 people.last_names,Al-Azzam
+people.last_names,Al-Azzawi
 people.last_names,Al-Badawi
 people.last_names,Al-Badi
 people.last_names,Al-Badia
@@ -846,20 +946,28 @@ people.last_names,Al-Bahri
 people.last_names,Al-Bakri
 people.last_names,Al-Balushi
 people.last_names,Al-Bandar
+people.last_names,Al-Barzanji
 people.last_names,Al-Basha
 people.last_names,Al-Basri
 people.last_names,Al-Bayati
+people.last_names,Al-Bitar
 people.last_names,Al-Busaidi
 people.last_names,Al-Bustani
+people.last_names,Al-Chalabi
 people.last_names,Al-Dabbagh
 people.last_names,Al-Dahhan
 people.last_names,Al-Darwish
+people.last_names,Al-Dawood
 people.last_names,Al-Dawsari
 people.last_names,Al-Dhafir
 people.last_names,Al-Din
 people.last_names,Al-Dossari
 people.last_names,Al-Dujan
+people.last_names,Al-Dulaimi
+people.last_names,Al-Duri
 people.last_names,Al-Eisa
+people.last_names,Al-Enezi
+people.last_names,Al-Eshaiqer
 people.last_names,Al-Fadhli
 people.last_names,Al-Fahad
 people.last_names,Al-Fahd
@@ -871,11 +979,13 @@ people.last_names,Al-Faraj
 people.last_names,Al-Fareed
 people.last_names,Al-Farouq
 people.last_names,Al-Farsi
+people.last_names,Al-Fartousi
 people.last_names,Al-Fasi
 people.last_names,Al-Fathi
 people.last_names,Al-Fayed
 people.last_names,Al-Fayegh
 people.last_names,Al-Fikri
+people.last_names,Al-Gailani
 people.last_names,Al-Ghafiri
 people.last_names,Al-Ghali
 people.last_names,Al-Ghalib
@@ -884,7 +994,9 @@ people.last_names,Al-Ghandour
 people.last_names,Al-Ghanem
 people.last_names,Al-Ghazali
 people.last_names,Al-Ghufran
+people.last_names,Al-Gosaibi
 people.last_names,Al-Habsi
+people.last_names,Al-Haboubi
 people.last_names,Al-Haddad
 people.last_names,Al-Haddadi
 people.last_names,Al-Hadidi
@@ -924,10 +1036,12 @@ people.last_names,Al-Jabari
 people.last_names,Al-Jabbar
 people.last_names,Al-Jaber
 people.last_names,Al-Jabri
+people.last_names,Al-Jadirji
 people.last_names,Al-Jafar
 people.last_names,Al-Jahid
 people.last_names,Al-Jalali
 people.last_names,Al-Jaleel
+people.last_names,Al-Jalili
 people.last_names,Al-Jamal
 people.last_names,Al-Jassim
 people.last_names,Al-Jawdat
@@ -940,6 +1054,7 @@ people.last_names,Al-Jumah
 people.last_names,Al-Jundi
 people.last_names,Al-Kaabi
 people.last_names,Al-Kader
+people.last_names,Al-Kadhimi
 people.last_names,Al-Kadhim
 people.last_names,Al-Kahali
 people.last_names,Al-Kallas
@@ -951,6 +1066,7 @@ people.last_names,Al-Karam
 people.last_names,Al-Kassem
 people.last_names,Al-Kattan
 people.last_names,Al-Kazemi
+people.last_names,Al-Khafaji
 people.last_names,Al-Khair
 people.last_names,Al-Khalidi
 people.last_names,Al-Kharafi
@@ -966,6 +1082,7 @@ people.last_names,Al-Kinan
 people.last_names,Al-Kinani
 people.last_names,Al-Kurdi
 people.last_names,Al-Kuwari
+people.last_names,Al-Labban
 people.last_names,Al-Labib
 people.last_names,Al-Lamees
 people.last_names,Al-Lami
@@ -982,25 +1099,33 @@ people.last_names,Al-Maktoum
 people.last_names,Al-Malki
 people.last_names,Al-Mansour
 people.last_names,Al-Mansoori
+people.last_names,Al-Maqdisi
 people.last_names,Al-Marzouqi
 people.last_names,Al-Masri
 people.last_names,Al-Mazrouei
 people.last_names,Al-Mousa
 people.last_names,Al-Mutairi
+people.last_names,Al-Nabulsi
 people.last_names,Al-Nahyan
 people.last_names,Al-Naimi
 people.last_names,Al-Najjar
+people.last_names,Al-Naqib
 people.last_names,Al-Nasser
 people.last_names,Al-Nassif
 people.last_names,Al-Neyadi
 people.last_names,Al-Noor
 people.last_names,Al-Nuaimi
+people.last_names,Al-Obeidi
 people.last_names,Al-Omari
+people.last_names,Al-Otaiba
 people.last_names,Al-Otaibi
 people.last_names,Al-Othman
+people.last_names,Al-Pachachi
 people.last_names,Al-Qahtani
+people.last_names,Al-Qaradawi
 people.last_names,Al-Qasim
 people.last_names,Al-Qasimi
+people.last_names,Al-Quraishi
 people.last_names,Al-Rahman
 people.last_names,Al-Rashed
 people.last_names,Al-Rashid
@@ -1012,6 +1137,7 @@ people.last_names,Al-Saadi
 people.last_names,Al-Sabah
 people.last_names,Al-Saber
 people.last_names,Al-Saberi
+people.last_names,Al-Sadr
 people.last_names,Al-Saeed
 people.last_names,Al-Safi
 people.last_names,Al-Saidi
@@ -1021,6 +1147,7 @@ people.last_names,Al-Sanea
 people.last_names,Al-Sayed
 people.last_names,Al-Sayegh
 people.last_names,Al-Shabani
+people.last_names,Al-Shabibi
 people.last_names,Al-Shahrani
 people.last_names,Al-Shami
 people.last_names,Al-Shammari
@@ -1031,20 +1158,29 @@ people.last_names,Al-Shukri
 people.last_names,Al-Subaie
 people.last_names,Al-Sultan
 people.last_names,Al-Suwaidi
+people.last_names,Al-Tabatabaei
 people.last_names,Al-Taie
 people.last_names,Al-Tamimi
 people.last_names,Al-Tariq
 people.last_names,Al-Tayeb
 people.last_names,Al-Turki
+people.last_names,Al-Tuwaijri
+people.last_names,Al-Ubaydi
+people.last_names,Al-Uthaimin
 people.last_names,Al-Waeli
 people.last_names,Al-Wael
+people.last_names,Al-Wahhab
 people.last_names,Al-Wahid
+people.last_names,Al-Ward
 people.last_names,Al-Yaarubi
 people.last_names,Al-Yafi
 people.last_names,Al-Yami
+people.last_names,Al-Yassiri
+people.last_names,Al-Yawar
 people.last_names,Al-Yazidi
 people.last_names,Al-Yousef
 people.last_names,Al-Zabi
+people.last_names,Al-Zahawi
 people.last_names,Al-Zahrani
 people.last_names,Al-Zaid
 people.last_names,Al-Zaidi
@@ -1053,6 +1189,7 @@ people.last_names,Al-Zayani
 people.last_names,Al-Zayyat
 people.last_names,Al-Zidjali
 people.last_names,Al-Ziyad
+people.last_names,Al-Zubaidi
 corporations.name_components.prefixes,Abqari
 corporations.name_components.prefixes,Afaq
 corporations.name_components.prefixes,Ahlam
@@ -1268,25 +1405,40 @@ corporations.standalone_brands,ALMASA
 corporations.standalone_brands,ALQAMAR
 corporations.standalone_brands,AMALCO
 corporations.standalone_brands,AMINCORP
+corporations.standalone_brands,AMJADCO
 corporations.standalone_brands,ANWARA
+corporations.standalone_brands,ANWARX
 corporations.standalone_brands,ARABIAX
+corporations.standalone_brands,ARWACOM
 corporations.standalone_brands,ASILCOM
+corporations.standalone_brands,ASILTECH
 corporations.standalone_brands,ASRTECH
 corporations.standalone_brands,ATLASX
 corporations.standalone_brands,ATYAB
+corporations.standalone_brands,AZHARX
 corporations.standalone_brands,AZMTECH
 corporations.standalone_brands,BADAEL
 corporations.standalone_brands,BAHACORP
+corporations.standalone_brands,BAHIRCO
 corporations.standalone_brands,BALADX
+corporations.standalone_brands,BALIGHX
+corporations.standalone_brands,BARACOM
 corporations.standalone_brands,BASAER
 corporations.standalone_brands,BASHACORP
 corporations.standalone_brands,BASMA
 corporations.standalone_brands,BAYANX
 corporations.standalone_brands,BINATECH
+corporations.standalone_brands,BURHANTECH
 corporations.standalone_brands,BURHANX
+corporations.standalone_brands,CHAWQIX
+corporations.standalone_brands,DABIRCO
 corporations.standalone_brands,DALAT
+corporations.standalone_brands,DALILX
+corporations.standalone_brands,DANIYAHCOM
+corporations.standalone_brands,DAUDTECH
 corporations.standalone_brands,DAWQ
 corporations.standalone_brands,DHAHAB
+corporations.standalone_brands,DHULX
 corporations.standalone_brands,DIWANCO
 corporations.standalone_brands,DUNA
 corporations.standalone_brands,EBDAAX
@@ -1294,15 +1446,28 @@ corporations.standalone_brands,EMARAT
 corporations.standalone_brands,ENJAZCOM
 corporations.standalone_brands,EZZCORP
 corporations.standalone_brands,FADA
+corporations.standalone_brands,FADELCO
+corporations.standalone_brands,FADILAX
+corporations.standalone_brands,FAIZAHCOM
 corporations.standalone_brands,FAJRCOM
 corporations.standalone_brands,FAKHAMA
+corporations.standalone_brands,FAKHRTECH
 corporations.standalone_brands,FAKHRX
 corporations.standalone_brands,FANAN
 corporations.standalone_brands,FARESCO
+corporations.standalone_brands,FARUQX
+corporations.standalone_brands,FATHCO
+corporations.standalone_brands,FATINX
+corporations.standalone_brands,FAWZIYYACOM
+corporations.standalone_brands,FIDATECH
 corporations.standalone_brands,FIKRACOM
 corporations.standalone_brands,FIKRIX
 corporations.standalone_brands,FIRDAUS
+corporations.standalone_brands,FIRDAUSX
+corporations.standalone_brands,FUADCO
 corporations.standalone_brands,GHAWALI
+corporations.standalone_brands,GHAYDAX
+corporations.standalone_brands,GHAZALACOM
 corporations.standalone_brands,GULFLINE
 corporations.standalone_brands,HADAFX
 corporations.standalone_brands,HALACOM
@@ -1544,25 +1709,45 @@ media.titles,Afaq Al-Mustaqbal
 media.titles,Ahl Al-Hawa
 media.titles,Ahlam Al-Layl
 media.titles,Ajyal Al-Ghad
+media.titles,Al-Amal Al-Jadid
 media.titles,Al-Amir Al-Saghir
 media.titles,Al-Bahr Al-Ahmar
+media.titles,Al-Bahr Al-Mayyit
+media.titles,Al-Dhikrayat Al-Jamila
+media.titles,Al-Fajr Al-Jadid
 media.titles,Al-Fursan Al-Thalatha
+media.titles,Al-Ghad Al-Mushriq
 media.titles,Al-Ghuraba
+media.titles,Al-Hubb Al-Abadi
+media.titles,Al-Kanz Al-Madfun
 media.titles,Al-Kanz Al-Mafqud
+media.titles,Al-Layl Al-Tawil
 media.titles,Al-Madi Al-Majid
+media.titles,Al-Madina Al-Mafquda
 media.titles,Al-Malik Al-A'zam
+media.titles,Al-Nahr Al-Khalid
+media.titles,Al-Qamar Al-Munir
 media.titles,Al-Qamar Al-Muzlim
 media.titles,Al-Rihla Al-Akhira
+media.titles,Al-Rihla Al-Mutaaba
+media.titles,Al-Shams Al-Mushriqa
 media.titles,Al-Sirr Al-Dafin
+media.titles,Al-Tariq Al-Tawil
 media.titles,Al-Tariq Ila Al-Qimma
+media.titles,Al-Ufuq Al-Baeid
+media.titles,Al-Wadi Al-Akhdar
+media.titles,Al-Yaqza Al-Kubra
+media.titles,Al-Zaman Al-Jamil
 media.titles,Almas Al-Sharq
 media.titles,Amal Al-Ghad
 media.titles,Amal Al-Hayat
+media.titles,Amal Al-Mustaqbal
 media.titles,Amin Al-Waad
 media.titles,Anwar Al-Madina
 media.titles,Anwar Al-Shams
 media.titles,Asatir Al-Sharq
 media.titles,Asr Al-Dhahab
+media.titles,Asrar Al-Bahr
 media.titles,Asrar Al-Qusur
 media.titles,Asrar Al-Waha
 media.titles,Atlas Al-Alam
@@ -1571,75 +1756,99 @@ media.titles,Azm Al-Rijal
 media.titles,Bab Al-Asrar
 media.titles,Badael Al-Qadar
 media.titles,Baha Al-Layl
+media.titles,Bahr Al-Kunuz
 media.titles,Balad Al-Ahrar
 media.titles,Basaer Al-Haqq
+media.titles,Basaer Al-Nour
 media.titles,Basha Al-Qaryah
 media.titles,Basma Al-Amal
 media.titles,Batal Al-Khaleej
 media.titles,Bina Al-Mustaqbal
 media.titles,Burhan Al-Hubb
 media.titles,Dalat Al-Tariq
+media.titles,Dalil Al-Musafir
 media.titles,Dam'at Al-Yatim
 media.titles,Darb Al-Andalus
 media.titles,Dawq Al-Fann
+media.titles,Dima Al-Hubb
 media.titles,Diwan Al-Shiar
 media.titles,Ebdaa Al-Fikr
 media.titles,Enjaz Al-Ayyam
 media.titles,Fada Al-Ahlam
+media.titles,Fada Al-Kawn
 media.titles,Fajr Al-Hurriya
 media.titles,Fakhr Al-Watan
 media.titles,Fanan Al-Sharq
 media.titles,Fares Al-Zalam
 media.titles,Fikra Al-Ghad
 media.titles,Fikri Al-Hurr
+media.titles,Fursan Al-Haqq
 media.titles,Fursan Al-Sahara
+media.titles,Ghaith Al-Khair
 media.titles,Ghaith Al-Sama
 media.titles,Ghawali Al-Thaman
+media.titles,Ghurfat Al-Asrar
+media.titles,Hadaf Al-Abtal
 media.titles,Hadaf Al-Najah
 media.titles,Haitham Al-Batal
 media.titles,Hala Al-Qulub
 media.titles,Hikayat Al-Nahrain
+media.titles,Hikayat Al-Zaman
 media.titles,Hilal Al-Dahab
 media.titles,Hubb Fi Al-Rimal
 media.titles,Hubb Fi Al-Zalam
+media.titles,Ibdaa Al-Khaliq
 media.titles,Ibdaa Al-Khayal
 media.titles,Ibtisam Al-Qadar
 media.titles,Ittihad Al-Abtal
+media.titles,Jasad Al-Haqiqa
 media.titles,Jasad Al-Ruh
 media.titles,Jasim Al-Mawaqif
 media.titles,Jawad Al-Karam
 media.titles,Jawharat Al-Sharq
+media.titles,Jazirat Al-Ahlam
 media.titles,Jibril Al-Amin
 media.titles,Kafa Al-Adil
 media.titles,Kanaan Al-Ard
 media.titles,Kanz Al-Asrar
+media.titles,Kanz Al-Sahara
+media.titles,Karamat Al-Awliya
 media.titles,Karamat Al-Sahara
 media.titles,Kayan Al-Wujud
 media.titles,Khayal Al-Madi
 media.titles,Lahzat Al-Wada'
+media.titles,Lamees Al-Qalb
 media.titles,Lamees Al-Ward
+media.titles,Layali Al-Andalus
 media.titles,Layali Al-Qahira
 media.titles,Layalina Al-Hulwa
 media.titles,Layla Wa Al-Dhi'b
 media.titles,Lu'lu'at Al-Khalij
 media.titles,Mabrouk Al-Najah
 media.titles,Madi Al-Nil
+media.titles,Madinat Al-Dhahab
 media.titles,Majd Al-Arab
+media.titles,Mizan Al-Adl
 media.titles,Mizan Al-Haqq
 media.titles,Mubadir Al-Khair
 media.titles,Musafir Al-Layl
 media.titles,Nabeel Al-Akhlaq
 media.titles,Nabeel Al-Qalb
 media.titles,Naday Al-Sabah
+media.titles,Nahda Al-Shuub
 media.titles,Nahda Al-Umma
+media.titles,Nahr Al-Asrar
 media.titles,Najm Baghdad
 media.titles,Nar Al-Ghayra
 media.titles,Nur Al-Masriq
 media.titles,Nur Al-Sahara
 media.titles,Omran Al-Bina
+media.titles,Omran Al-Madayen
 media.titles,Qal'at Al-Ahlam
+media.titles,Qal'at Al-Haqq
 media.titles,Qamar Al-Layali
 media.titles,Qissat Al-Amir
+media.titles,Qissat Al-Batal
 media.titles,Rabea Al-Omr
 media.titles,Radeef Al-Ruh
 media.titles,Raed Al-Fada
@@ -1648,6 +1857,8 @@ media.titles,Rakiz Al-Asas
 media.titles,Rasil Al-Gharam
 media.titles,Rawasi Al-Jibal
 media.titles,Rih Al-Badia
+media.titles,Rihlat Al-Amal
+media.titles,Rihlat Al-Ghuraba
 media.titles,Rihlat Al-Shita
 media.titles,Rimal Al-Zaman
 media.titles,Riyada Al-Aamal
@@ -1668,11 +1879,14 @@ media.titles,Shams Al-Haqiqa
 media.titles,Shorouq Al-Amal
 media.titles,Sina Al-Asrar
 media.titles,Sirr Al-Ahram
+media.titles,Sirr Al-Madina
 media.titles,Suq Al-Hayat
 media.titles,Tariq Al-Majd
+media.titles,Tariq Al-Najah
 media.titles,Tawasul Al-Arwah
 media.titles,Thaman Al-Haqiqa
 media.titles,Usama Al-Shuja
+media.titles,Wadi Al-Dhahab
 media.titles,Wadi Al-Muluk
 media.titles,Wael Al-Salam
 media.titles,Wardat Al-Rabi'
@@ -1680,4 +1894,5 @@ media.titles,Wifaq Al-Salam
 media.titles,Yasmin Al-Sham
 media.titles,Yusr Al-Hayat
 media.titles,Zahra Al-Bustan
+media.titles,Zaman Al-Ajayeb
 media.titles,Zaman Al-Fursan
