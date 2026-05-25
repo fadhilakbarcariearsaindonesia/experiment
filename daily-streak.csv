@@ -1,0 +1,460 @@
+Date,Platform,Category,Activity_Name,Streak,Duration_Min,Status
+2026-03-24,Duolingo,Linguistics,English Proficiency Course,526,4,Completed
+2026-03-24,Mimo,Full-Stack Development,Discovering HTML and Tags,1,3,In-Progress
+2026-03-24,TryHackMe,Cybersecurity,Introduction to Offensive Security,1,4,In-Progress
+2026-03-24,GitHub,DevOps & Version Control,Repository Update,1,20,Success
+2026-03-24,HuggingFace,Machine Learning Ops,Update and Explore Datasets,1,11,Success
+2026-03-25,Duolingo,Linguistics,English Proficiency Course,527,3,Completed
+2026-03-25,Mimo,Full-Stack Development,Discovering HTML and Tags,2,7,Completed
+2026-03-25,TryHackMe,Cybersecurity,Introduction to Offensive Security,2,11,In-Progress
+2026-03-25,GitHub,DevOps & Version Control,Repository Update,2,18,Success
+2026-03-25,HuggingFace,Machine Learning Ops,Update and Explore Datasets,2,8,Success
+2026-03-26,Duolingo,Linguistics,English Proficiency Course,528,6,Completed
+2026-03-26,Mimo,Full-Stack Development,Structuring Text with Tags,3,8,Completed
+2026-03-26,TryHackMe,Cybersecurity,Introduction to Offensive Security,3,6,Completed
+2026-03-26,GitHub,DevOps & Version Control,Repository Update,3,25,Success
+2026-03-26,HuggingFace,Machine Learning Ops,Update and Explore Datasets,3,10,Success
+2026-03-27,Duolingo,Linguistics,English Proficiency Course,529,4,Completed
+2026-03-27,Mimo,Full-Stack Development,HTML Basics 1,4,4,Completed
+2026-03-27,TryHackMe,Cybersecurity,Introduction to Defensive Security,4,7,In-Progress
+2026-03-27,GitHub,DevOps & Version Control,Repository Update,4,19,Success
+2026-03-27,HuggingFace,Machine Learning Ops,Update and Explore Datasets,4,6,Success
+2026-03-28,Duolingo,Linguistics,English Proficiency Course,530,3,Completed
+2026-03-28,Mimo,Full-Stack Development,Creating Links,5,7,Completed
+2026-03-28,TryHackMe,Cybersecurity,Introduction to Defensive Security,5,10,In-Progress
+2026-03-28,GitHub,DevOps & Version Control,Repository Update,5,22,Success
+2026-03-28,HuggingFace,Machine Learning Ops,Update and Explore Datasets,5,9,Success
+2026-03-29,Duolingo,Linguistics,English Proficiency Course,531,5,Completed
+2026-03-29,Mimo,Full-Stack Development,Adding Images,6,6,Completed
+2026-03-29,TryHackMe,Cybersecurity,Introduction to Defensive Security,6,5,Completed
+2026-03-29,GitHub,DevOps & Version Control,Repository Update,6,21,Success
+2026-03-29,HuggingFace,Machine Learning Ops,Update and Explore Datasets,6,12,Success
+2026-03-30,Duolingo,Linguistics,English Proficiency Course,532,4,Completed
+2026-03-30,Mimo,Full-Stack Development,HTML Basics 2,7,8,Completed
+2026-03-30,TryHackMe,Cybersecurity,OSINT: Advanced Search Skills,7,12,In-Progress
+2026-03-30,GitHub,DevOps & Version Control,Repository Update,7,18,Success
+2026-03-30,HuggingFace,Machine Learning Ops,Update and Explore Datasets,7,8,Success
+2026-03-31,Duolingo,Linguistics,English Proficiency Course,533,3,Completed
+2026-03-31,Mimo,Full-Stack Development,Linktree Project,8,10,Completed
+2026-03-31,TryHackMe,Cybersecurity,OSINT: Advanced Search Skills,8,9,In-Progress
+2026-03-31,GitHub,DevOps & Version Control,Repository Update,8,20,Success
+2026-03-31,HuggingFace,Machine Learning Ops,Update and Explore Datasets,8,7,Success
+2026-04-01,Duolingo,Linguistics,English Proficiency Course,534,4,Completed
+2026-04-01,Mimo,Full-Stack Development,Boilerplate Code,9,5,In-Progress
+2026-04-01,TryHackMe,Cybersecurity,OSINT: Advanced Search Skills,9,11,In-Progress
+2026-04-01,GitHub,DevOps & Version Control,Repository Update,9,23,Success
+2026-04-01,HuggingFace,Machine Learning Ops,Update and Explore Datasets,9,12,Success
+2026-04-02,Duolingo,Linguistics,English Proficiency Course,535,3,Completed
+2026-04-02,Mimo,Full-Stack Development,Boilerplate Code,10,6,Completed
+2026-04-02,TryHackMe,Cybersecurity,OSINT: Advanced Search Skills,10,13,In-Progress
+2026-04-02,GitHub,DevOps & Version Control,Repository Update,10,19,Success
+2026-04-02,HuggingFace,Machine Learning Ops,Update and Explore Datasets,10,10,Success
+2026-04-03,Duolingo,Linguistics,English Proficiency Course,536,5,Completed
+2026-04-03,Mimo,Full-Stack Development,Stylesheet and Basic Selectors,11,8,In-Progress
+2026-04-03,TryHackMe,Cybersecurity,OSINT: Advanced Search Skills,11,7,Completed
+2026-04-03,GitHub,DevOps & Version Control,Repository Update,11,25,Success
+2026-04-03,HuggingFace,Machine Learning Ops,Update and Explore Datasets,11,9,Success
+2026-04-04,Duolingo,Linguistics,English Proficiency Course,537,4,Completed
+2026-04-04,Mimo,Full-Stack Development,Stylesheet and Basic Selectors,12,9,In-Progress
+2026-04-04,TryHackMe,Cybersecurity,Linux Fundamentals: Part 1,12,12,In-Progress
+2026-04-04,GitHub,DevOps & Version Control,Repository Update,12,28,Success
+2026-04-04,HuggingFace,Machine Learning Ops,Update and Explore Datasets,12,11,Success
+2026-04-05,Duolingo,Linguistics,English Proficiency Course,538,3,Completed
+2026-04-05,Mimo,Full-Stack Development,Stylesheet and Basic Selectors,13,7,In-Progress
+2026-04-05,TryHackMe,Cybersecurity,Linux Fundamentals: Part 1,13,10,In-Progress
+2026-04-05,GitHub,DevOps & Version Control,Repository Update,13,24,Success
+2026-04-05,HuggingFace,Machine Learning Ops,Update and Explore Datasets,13,8,Success
+2026-04-06,Duolingo,Linguistics,English Proficiency Course,539,6,Completed
+2026-04-06,Mimo,Full-Stack Development,Stylesheet and Basic Selectors,14,10,Completed
+2026-04-06,TryHackMe,Cybersecurity,Linux Fundamentals: Part 1,14,11,In-Progress
+2026-04-06,GitHub,DevOps & Version Control,Repository Update,14,30,Success
+2026-04-06,HuggingFace,Machine Learning Ops,Update and Explore Datasets,14,13,Success
+2026-04-07,Duolingo,Linguistics,English Proficiency Course,540,4,Completed
+2026-04-07,Mimo,Full-Stack Development,Styling Text,15,5,Completed
+2026-04-07,TryHackMe,Cybersecurity,Linux Fundamentals: Part 1,15,13,In-Progress
+2026-04-07,GitHub,DevOps & Version Control,Repository Update,15,22,Success
+2026-04-07,HuggingFace,Machine Learning Ops,Update and Explore Datasets,15,10,Success
+2026-04-08,Duolingo,Linguistics,English Proficiency Course,541,4,Completed
+2026-04-08,Mimo,Full-Stack Development,Setting Size and Borders,16,7,In-Progress
+2026-04-08,TryHackMe,Cybersecurity,Linux Fundamentals: Part 1,16,8,Completed
+2026-04-08,GitHub,DevOps & Version Control,Repository Update,16,21,Success
+2026-04-08,HuggingFace,Machine Learning Ops,Update and Explore Datasets,16,9,Success
+2026-04-09,Duolingo,Linguistics,English Proficiency Course,542,5,Completed
+2026-04-09,Mimo,Full-Stack Development,Setting Size and Borders,17,6,Completed
+2026-04-09,TryHackMe,Cybersecurity,Windows Fundamentals: Part 1,17,12,In-Progress
+2026-04-09,GitHub,DevOps & Version Control,Repository Update,17,19,Success
+2026-04-09,HuggingFace,Machine Learning Ops,Update and Explore Datasets,17,8,Success
+2026-04-10,Duolingo,Linguistics,English Proficiency Course,543,6,Completed
+2026-04-10,Mimo,Full-Stack Development,CSS Basics 1,18,9,Completed
+2026-04-10,TryHackMe,Cybersecurity,Windows Fundamentals: Part 1,18,10,In-Progress
+2026-04-10,GitHub,DevOps & Version Control,Repository Update,18,22,Success
+2026-04-10,HuggingFace,Machine Learning Ops,Update and Explore Datasets,18,7,Success
+2026-04-11,Duolingo,Linguistics,English Proficiency Course,544,4,Completed
+2026-04-11,Mimo,Full-Stack Development,Building with the Box Model,19,6,In-Progress
+2026-04-11,TryHackMe,Cybersecurity,Windows Fundamentals: Part 1,19,8,In-Progress
+2026-04-11,GitHub,DevOps & Version Control,Repository Update,19,20,Success
+2026-04-11,HuggingFace,Machine Learning Ops,Update and Explore Datasets,19,10,Success
+2026-04-12,Duolingo,Linguistics,English Proficiency Course,545,5,Completed
+2026-04-12,Mimo,Full-Stack Development,Building with the Box Model,20,8,Completed
+2026-04-12,TryHackMe,Cybersecurity,Windows Fundamentals: Part 1,20,11,In-Progress
+2026-04-12,GitHub,DevOps & Version Control,Repository Update,20,18,Success
+2026-04-12,HuggingFace,Machine Learning Ops,Update and Explore Datasets,20,7,Success
+2026-04-13,Duolingo,Linguistics,English Proficiency Course,546,4,Completed
+2026-04-13,Mimo,Full-Stack Development,Adding Padding with One Line,21,5,Completed
+2026-04-13,TryHackMe,Cybersecurity,Windows Fundamentals: Part 1,21,12,In-Progress
+2026-04-13,GitHub,DevOps & Version Control,Repository Update,21,24,Success
+2026-04-13,HuggingFace,Machine Learning Ops,Update and Explore Datasets,21,8,Success
+2026-04-14,Duolingo,Linguistics,English Proficiency Course,547,6,Completed
+2026-04-14,Mimo,Full-Stack Development,Styling Corners with One Line,22,6,Completed
+2026-04-14,TryHackMe,Cybersecurity,Windows Fundamentals: Part 1,22,6,Completed
+2026-04-14,GitHub,DevOps & Version Control,Repository Update,22,19,Success
+2026-04-14,HuggingFace,Machine Learning Ops,Update and Explore Datasets,22,9,Success
+2026-04-15,Duolingo,Linguistics,English Proficiency Course,548,4,Completed
+2026-04-15,Mimo,Full-Stack Development,CSS Basics 2,23,5,Completed
+2026-04-15,TryHackMe,Cybersecurity,Windows Command Line Basics,23,10,In-Progress
+2026-04-15,GitHub,DevOps & Version Control,Repository Update,23,21,Success
+2026-04-15,HuggingFace,Machine Learning Ops,Update and Explore Datasets,23,7,Success
+2026-04-16,Duolingo,Linguistics,English Proficiency Course,549,5,Completed
+2026-04-16,Mimo,Full-Stack Development,Linktree Project,24,8,Completed
+2026-04-16,TryHackMe,Cybersecurity,Windows Command Line Basics,24,9,In-Progress
+2026-04-16,GitHub,DevOps & Version Control,Repository Update,24,25,Success
+2026-04-16,HuggingFace,Machine Learning Ops,Update and Explore Datasets,24,8,Success
+2026-04-17,Duolingo,Linguistics,English Proficiency Course,550,7,Completed
+2026-04-17,Mimo,Full-Stack Development,Creating Variables,25,4,Completed
+2026-04-17,TryHackMe,Cybersecurity,Windows Command Line Basics,25,7,Completed
+2026-04-17,GitHub,DevOps & Version Control,Repository Update,25,18,Success
+2026-04-17,HuggingFace,Machine Learning Ops,Update and Explore Datasets,25,9,Success
+2026-04-18,Duolingo,Linguistics,English Proficiency Course,551,5,Completed
+2026-04-18,Mimo,Full-Stack Development,Using Variables,26,9,Completed
+2026-04-18,TryHackMe,Cybersecurity,Networking Concepts & Protocols,26,11,In-Progress
+2026-04-18,GitHub,DevOps & Version Control,Repository Update,26,22,Success
+2026-04-18,HuggingFace,Machine Learning Ops,Update and Explore Datasets,26,8,Success
+2026-04-19,Duolingo,Linguistics,English Proficiency Course,552,6,Completed
+2026-04-19,Mimo,Full-Stack Development,Using True and False,27,7,Completed
+2026-04-19,TryHackMe,Cybersecurity,Networking Concepts & Protocols,27,10,In-Progress
+2026-04-19,GitHub,DevOps & Version Control,Repository Update,27,27,Success
+2026-04-19,HuggingFace,Machine Learning Ops,Update and Explore Datasets,27,10,Success
+2026-04-20,Duolingo,Linguistics,English Proficiency Course,553,4,Completed
+2026-04-20,Mimo,Full-Stack Development,Checking Number Equality,28,8,Completed
+2026-04-20,TryHackMe,Cybersecurity,Networking Concepts & Protocols,28,13,In-Progress
+2026-04-20,GitHub,DevOps & Version Control,Repository Update,28,21,Success
+2026-04-20,HuggingFace,Machine Learning Ops,Update and Explore Datasets,28,9,Success
+2026-04-21,Duolingo,Linguistics,English Proficiency Course,554,6,Completed
+2026-04-21,Mimo,Full-Stack Development,JavaScript Basics,29,5,Completed
+2026-04-21,TryHackMe,Cybersecurity,Networking Concepts & Protocols,29,6,Completed
+2026-04-21,GitHub,DevOps & Version Control,Repository Update,29,19,Success
+2026-04-21,HuggingFace,Machine Learning Ops,Update and Explore Datasets,29,10,Success
+2026-04-22,Duolingo,Linguistics,English Proficiency Course,555,4,Completed
+2026-04-22,Mimo,Full-Stack Development,Comparing Numbers,30,7,Completed
+2026-04-22,TryHackMe,Cybersecurity,Introduction to Cryptography,30,11,In-Progress
+2026-04-22,GitHub,DevOps & Version Control,Repository Update,30,18,Success
+2026-04-22,HuggingFace,Machine Learning Ops,Update and Explore Datasets,30,8,Success
+2026-04-23,Duolingo,Linguistics,English Proficiency Course,556,6,Completed
+2026-04-23,Mimo,Full-Stack Development,Comparing Strings,31,4,Completed
+2026-04-23,TryHackMe,Cybersecurity,Introduction to Cryptography,31,9,In-Progress
+2026-04-23,GitHub,DevOps & Version Control,Repository Update,31,20,Success
+2026-04-23,HuggingFace,Machine Learning Ops,Update and Explore Datasets,31,11,Success
+2026-04-24,Duolingo,Linguistics,English Proficiency Course,557,4,Completed
+2026-04-24,Mimo,Full-Stack Development,Discovering Types,32,6,Completed
+2026-04-24,TryHackMe,Cybersecurity,Introduction to Cryptography,32,12,In-Progress
+2026-04-24,GitHub,DevOps & Version Control,Repository Update,32,23,Success
+2026-04-24,HuggingFace,Machine Learning Ops,Update and Explore Datasets,32,8,Success
+2026-04-25,Duolingo,Linguistics,English Proficiency Course,558,3,Completed
+2026-04-25,Mimo,Full-Stack Development,Logical Operators,33,9,Completed
+2026-04-25,TryHackMe,Cybersecurity,Introduction to Cryptography,33,7,Completed
+2026-04-25,GitHub,DevOps & Version Control,Repository Update,33,18,Success
+2026-04-25,HuggingFace,Machine Learning Ops,Update and Explore Datasets,33,12,Success
+2026-04-26,Duolingo,Linguistics,English Proficiency Course,559,6,Completed
+2026-04-26,Mimo,Full-Stack Development,Types and Comparisons,34,5,Completed
+2026-04-26,TryHackMe,Cybersecurity,Exploiting Moniker Link (CVE-2024-21413),34,11,In-Progress
+2026-04-26,GitHub,DevOps & Version Control,Repository Update,34,26,Success
+2026-04-26,HuggingFace,Machine Learning Ops,Update and Explore Datasets,34,10,Success
+2026-04-27,Duolingo,Linguistics,English Proficiency Course,560,4,Completed
+2026-04-27,Mimo,Full-Stack Development,Making Decisions,35,8,Completed
+2026-04-27,TryHackMe,Cybersecurity,Exploiting Moniker Link (CVE-2024-21413),35,10,In-Progress
+2026-04-27,GitHub,DevOps & Version Control,Repository Update,35,19,Success
+2026-04-27,HuggingFace,Machine Learning Ops,Update and Explore Datasets,35,8,Success
+2026-04-28,Duolingo,Linguistics,English Proficiency Course,561,6,Completed
+2026-04-28,Mimo,Full-Stack Development,Using Conditions,36,6,Completed
+2026-04-28,TryHackMe,Cybersecurity,Exploiting Moniker Link (CVE-2024-21413),36,8,In-Progress
+2026-04-28,GitHub,DevOps & Version Control,Repository Update,36,22,Success
+2026-04-28,HuggingFace,Machine Learning Ops,Update and Explore Datasets,36,9,Success
+2026-04-29,Duolingo,Linguistics,English Proficiency Course,562,4,Completed
+2026-04-29,Mimo,Full-Stack Development,Coding Else Statements,37,5,Completed
+2026-04-29,TryHackMe,Cybersecurity,Exploiting Moniker Link (CVE-2024-21413),37,6,Completed
+2026-04-29,GitHub,DevOps & Version Control,Repository Update,37,25,Success
+2026-04-29,HuggingFace,Machine Learning Ops,Update and Explore Datasets,37,8,Success
+2026-04-30,Duolingo,Linguistics,English Proficiency Course,563,3,Completed
+2026-04-30,Mimo,Full-Stack Development,Incorporating Else If,38,7,Completed
+2026-04-30,TryHackMe,Cybersecurity,Metasploit: The Fundamentals,38,10,In-Progress
+2026-04-30,GitHub,DevOps & Version Control,Repository Update,38,24,Success
+2026-04-30,HuggingFace,Machine Learning Ops,Update and Explore Datasets,38,9,Success
+2026-05-01,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,564,6,Completed
+2026-05-01,Mimo,Full-Stack Development,Conditionals,39,5,In-Progress
+2026-05-01,TryHackMe,Cybersecurity,Metasploit: The Fundamentals,39,12,In-Progress
+2026-05-01,GitHub,DevOps & Version Control,Repository Update,39,18,Success
+2026-05-01,HuggingFace,Machine Learning Ops,Update and Explore Datasets,39,10,Success
+2026-05-02,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,565,4,Completed
+2026-05-02,Mimo,Full-Stack Development,Conditionals,40,7,In-Progress
+2026-05-02,TryHackMe,Cybersecurity,Metasploit: The Fundamentals,40,11,In-Progress
+2026-05-02,Khan Academy,STEM Education,Junior Grade Math Review,1,10,In-Progress
+2026-05-02,Brilliant.org,Problem Solving,Thinking in Code Course,1,12,In-Progress
+2026-05-02,Daily.dev,Articles & News,Explore and Read Articles,1,22,Completed
+2026-05-02,GitHub,DevOps & Version Control,Repository Update,40,20,Success
+2026-05-02,LeetCode,Data Structures & Algorithms,Rotated Digits,1,35,Solved
+2026-05-02,HuggingFace,Machine Learning Ops,Update and Explore Datasets,40,8,Success
+2026-05-02,Kaggle,Data Science,Explore and Update Datasets,1,13,Completed
+2026-05-02,MonkeyType,Typing Proficiency,Speed Typing Training and Test,1,20,Success
+2026-05-03,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,566,6,Completed
+2026-05-03,Mimo,Full-Stack Development,Conditionals,41,8,In-Progress
+2026-05-03,TryHackMe,Cybersecurity,Metasploit: The Fundamentals,41,9,In-Progress
+2026-05-03,Khan Academy,STEM Education,Junior Grade Math Review,2,11,In-Progress
+2026-05-03,Brilliant.org,Problem Solving,Thinking in Code Course,2,10,In-Progress
+2026-05-03,Daily.dev,Articles & News,Explore and Read Articles,2,19,Completed
+2026-05-03,GitHub,DevOps & Version Control,Repository Update,41,18,Success
+2026-05-03,LeetCode,Data Structures & Algorithms,Rotate String,2,30,Solved
+2026-05-03,HuggingFace,Machine Learning Ops,Update and Explore Datasets,41,7,Success
+2026-05-03,Kaggle,Data Science,Explore and Update Datasets,2,12,Completed
+2026-05-03,MonkeyType,Typing Proficiency,Speed Typing Training and Test,2,24,Success
+2026-05-04,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,567,4,Completed
+2026-05-04,Mimo,Full-Stack Development,Conditionals,42,5,In-Progress
+2026-05-04,TryHackMe,Cybersecurity,Metasploit: The Fundamentals,42,12,In-Progress
+2026-05-04,Khan Academy,STEM Education,Junior Grade Math Review,3,13,In-Progress
+2026-05-04,Brilliant.org,Problem Solving,Thinking in Code Course,3,11,In-Progress
+2026-05-04,Daily.dev,Articles & News,Explore and Read Articles,3,25,Completed
+2026-05-04,GitHub,DevOps & Version Control,Repository Update,42,21,Success
+2026-05-04,LeetCode,Data Structures & Algorithms,Rotate Image,3,37,Solved
+2026-05-04,HuggingFace,Machine Learning Ops,Update and Explore Datasets,42,9,Success
+2026-05-04,Kaggle,Data Science,Explore and Update Datasets,3,9,Completed
+2026-05-04,MonkeyType,Typing Proficiency,Speed Typing Training and Test,3,18,Success
+2026-05-05,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,568,5,Completed
+2026-05-05,Mimo,Full-Stack Development,Conditionals,43,6,Completed
+2026-05-05,TryHackMe,Cybersecurity,Metasploit: The Fundamentals,43,10,In-Progress
+2026-05-05,Khan Academy,STEM Education,Junior Grade Math Review,4,12,In-Progress
+2026-05-05,Brilliant.org,Problem Solving,Thinking in Code Course,4,13,In-Progress
+2026-05-05,Daily.dev,Articles & News,Explore and Read Articles,4,21,Completed
+2026-05-05,GitHub,DevOps & Version Control,Repository Update,43,24,Success
+2026-05-05,LeetCode,Data Structures & Algorithms,Rotate Function,4,36,Solved
+2026-05-05,HuggingFace,Machine Learning Ops,Update and Explore Datasets,43,8,Success
+2026-05-05,Kaggle,Data Science,Explore and Update Datasets,4,11,Completed
+2026-05-05,MonkeyType,Typing Proficiency,Speed Typing Training and Test,4,22,Success
+2026-05-06,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,569,3,Completed
+2026-05-06,Mimo,Full-Stack Development,True and False Conditionals,44,5,Completed
+2026-05-06,TryHackMe,Cybersecurity,Metasploit: The Fundamentals,44,12,Completed
+2026-05-06,Khan Academy,STEM Education,Junior Grade Math Review,5,10,In-Progress
+2026-05-06,Brilliant.org,Problem Solving,Repeating Patterns,5,5,In-Progress
+2026-05-06,Daily.dev,Articles & News,Explore and Read Articles,5,26,Completed
+2026-05-06,GitHub,DevOps & Version Control,Repository Update,44,17,Success
+2026-05-06,LeetCode,Data Structures & Algorithms,Rotating the Box,5,24,Solved
+2026-05-06,HuggingFace,Machine Learning Ops,Update and Explore Datasets,44,9,Success
+2026-05-06,Kaggle,Data Science,Explore and Update Datasets,5,7,Completed
+2026-05-06,MonkeyType,Typing Proficiency,Speed Typing Training and Test,5,10,Success
+2026-05-07,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,570,4,Completed
+2026-05-07,Mimo,Full-Stack Development,Using Conditions,45,7,Completed
+2026-05-07,TryHackMe,Cybersecurity,HTTP in Detail,45,5,In-Progress
+2026-05-07,Khan Academy,STEM Education,Junior Grade Math Review,6,8,In-Progress
+2026-05-07,Brilliant.org,Problem Solving,Repetition-Tappy-Insight,6,7,Completed
+2026-05-07,Daily.dev,Articles & News,Explore and Read Articles,6,31,Completed
+2026-05-07,GitHub,DevOps & Version Control,Repository Update,45,29,Success
+2026-05-07,LeetCode,Data Structures & Algorithms,Jump Game IX,6,22,Solved
+2026-05-07,HuggingFace,Machine Learning Ops,Update and Explore Datasets,45,6,Success
+2026-05-07,Kaggle,Data Science,Explore and Update Datasets,6,4,Completed
+2026-05-07,MonkeyType,Typing Proficiency,Speed Typing Training and Test,6,19,Success
+2026-05-08,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,571,7,Completed
+2026-05-08,Mimo,Full-Stack Development,Coding Else Statements,46,5,Completed
+2026-05-08,TryHackMe,Cybersecurity,HTTP in Detail,46,8,In-Progress
+2026-05-08,Khan Academy,STEM Education,Junior Grade Math Review,7,6,In-Progress
+2026-05-08,Brilliant.org,Problem Solving,Modifying-Programs-Tappy-Insight,7,7,Completed
+2026-05-08,Daily.dev,Articles & News,Explore and Read Articles,7,33,Completed
+2026-05-08,GitHub,DevOps & Version Control,Repository Update,46,41,Success
+2026-05-08,LeetCode,Data Structures & Algorithms,Minimum Jumps to Reach End via Prime Teleportation,7,23,Solved
+2026-05-08,HuggingFace,Machine Learning Ops,Update and Explore Datasets,46,8,Success
+2026-05-08,Kaggle,Data Science,Explore and Update Datasets,7,3,Completed
+2026-05-08,MonkeyType,Typing Proficiency,Speed Typing Training and Test,7,42,Success
+2026-05-09,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,572,5,Completed
+2026-05-09,Mimo,Full-Stack Development,Incorporating Else If,47,4,Completed
+2026-05-09,TryHackMe,Cybersecurity,HTTP in Detail,47,13,In-Progress
+2026-05-09,Khan Academy,STEM Education,Junior Grade Math Review,8,4,In-Progress
+2026-05-09,Brilliant.org,Problem Solving,Sequencing-Commands,8,6,Completed
+2026-05-09,Daily.dev,Articles & News,Explore and Read Articles,8,36,Completed
+2026-05-09,GitHub,DevOps & Version Control,Repository Update,47,35,Success
+2026-05-09,LeetCode,Data Structures & Algorithms,Cyclically Rotating a Grid,8,23,Solved
+2026-05-09,HuggingFace,Machine Learning Ops,Update and Explore Datasets,47,6,Success
+2026-05-09,Kaggle,Data Science,Explore and Update Datasets,8,6,Completed
+2026-05-09,MonkeyType,Typing Proficiency,Speed Typing Training and Test,8,26,Success
+2026-05-10,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,573,7,Completed
+2026-05-10,Mimo,Full-Stack Development,Conditionals,48,5,Completed
+2026-05-10,TryHackMe,Cybersecurity,HTTP in Detail,48,15,Completed
+2026-05-10,Khan Academy,STEM Education,Junior Grade Math Review,9,3,In-Progress
+2026-05-10,Brilliant.org,Problem Solving,Debugging Programs,9,4,Completed
+2026-05-10,Daily.dev,Articles & News,Explore and Read Articles,9,41,Completed
+2026-05-10,GitHub,DevOps & Version Control,Repository Update,48,38,Success
+2026-05-10,LeetCode,Data Structures & Algorithms,Maximum Number of Jumps to Reach the Last Index,9,16,Solved
+2026-05-10,HuggingFace,Machine Learning Ops,Update and Explore Datasets,48,5,Success
+2026-05-10,Kaggle,Data Science,Explore and Update Datasets,9,8,Completed
+2026-05-10,MonkeyType,Typing Proficiency,Speed Typing Training and Test,9,29,Success
+2026-05-11,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,574,5,Completed
+2026-05-11,Mimo,Full-Stack Development,Reusing Code with Functions,49,6,Completed
+2026-05-11,TryHackMe,Cybersecurity,How Websites Work,49,10,In-Progress
+2026-05-11,Khan Academy,STEM Education,Junior Grade Math Review,10,5,In-Progress
+2026-05-11,Brilliant.org,Problem Solving,Loop-Logic-Tappy-Insight,10,4,Completed
+2026-05-11,Daily.dev,Articles & News,Explore and Read Articles,10,29,Completed
+2026-05-11,GitHub,DevOps & Version Control,Repository Update,49,32,Success
+2026-05-11,LeetCode,Data Structures & Algorithms,Separate the Digits in an Array,10,14,Solved
+2026-05-11,HuggingFace,Machine Learning Ops,Update and Explore Datasets,49,7,Success
+2026-05-11,Kaggle,Data Science,Explore and Update Datasets,10,6,Completed
+2026-05-11,MonkeyType,Typing Proficiency,Speed Typing Training and Test,10,22,Success
+2026-05-12,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,575,3,Completed
+2026-05-12,Mimo,Full-Stack Development,Including Javascript,50,5,Completed
+2026-05-12,TryHackMe,Cybersecurity,How Websites Work,50,8,Completed
+2026-05-12,Khan Academy,STEM Education,Junior Grade Math Review,11,3,In-Progress
+2026-05-12,Brilliant.org,Problem Solving,Modifying-Programs-Tappy-Insight,11,2,Completed
+2026-05-12,Daily.dev,Articles & News,Explore and Read Articles,11,31,Completed
+2026-05-12,GitHub,DevOps & Version Control,Repository Update,50,24,Success
+2026-05-12,LeetCode,Data Structures & Algorithms,Minimum Initial Energy to Finish Tasks,11,11,Solved
+2026-05-12,HuggingFace,Machine Learning Ops,Update and Explore Datasets,50,9,Success
+2026-05-12,Kaggle,Data Science,Explore and Update Datasets,11,4,Completed
+2026-05-12,MonkeyType,Typing Proficiency,Speed Typing Training and Test,11,18,Success
+2026-05-13,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,576,4,Completed
+2026-05-13,Mimo,Full-Stack Development,Adding Interaction,51,3,Completed
+2026-05-13,TryHackMe,Cybersecurity,DNS in Detail,51,7,In-Progress
+2026-05-13,Khan Academy,STEM Education,Junior Grade Math Review,12,2,In-Progress
+2026-05-13,Brilliant.org,Problem Solving,Modifying-Programs-Tappy-Insight,12,2,Completed
+2026-05-13,Daily.dev,Articles & News,Explore and Read Articles,12,35,Completed
+2026-05-13,GitHub,DevOps & Version Control,Repository Update,51,16,Success
+2026-05-13,LeetCode,Data Structures & Algorithms,Minimum Moves to Make Array Complementary,12,16,Solved
+2026-05-13,HuggingFace,Machine Learning Ops,Update and Explore Datasets,51,7,Success
+2026-05-13,Kaggle,Data Science,Explore and Update Datasets,12,4,Completed
+2026-05-13,MonkeyType,Typing Proficiency,Speed Typing Training and Test,12,24,Success
+2026-05-14,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,577,3,Completed
+2026-05-14,Mimo,Full-Stack Development,Including Javascript,52,4,Completed
+2026-05-14,TryHackMe,Cybersecurity,DNS in Detail,52,9,In-Progress
+2026-05-14,Khan Academy,STEM Education,Junior Grade Math Review,13,2,In-Progress
+2026-05-14,Brilliant.org,Problem Solving,While-Loop-Challenge,13,3,Completed
+2026-05-14,Daily.dev,Articles & News,Explore and Read Articles,13,27,Completed
+2026-05-14,GitHub,DevOps & Version Control,Repository Update,52,23,Success
+2026-05-14,LeetCode,Data Structures & Algorithms,Check if Array is Good,13,21,Solved
+2026-05-14,HuggingFace,Machine Learning Ops,Update and Explore Datasets,52,9,Success
+2026-05-14,Kaggle,Data Science,Explore and Update Datasets,13,3,Completed
+2026-05-14,MonkeyType,Typing Proficiency,Speed Typing Training and Test,13,15,Success
+2026-05-15,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,578,5,Completed
+2026-05-15,Mimo,Full-Stack Development,Querying 1 Element with Multiple Classes,53,3,Completed
+2026-05-15,TryHackMe,Cybersecurity,DNS in Detail,53,7,Completed
+2026-05-15,Khan Academy,STEM Education,Junior Grade Math Review,14,3,In-Progress
+2026-05-15,Brilliant.org,Problem Solving,Thinking-In-Code-Level-1-Review-1,14,4,Completed
+2026-05-15,Daily.dev,Articles & News,Explore and Read Articles,14,34,Completed
+2026-05-15,GitHub,DevOps & Version Control,Repository Update,53,26,Success
+2026-05-15,LeetCode,Data Structures & Algorithms,Find Minimum in Rotated Sorted Array,14,16,Solved
+2026-05-15,HuggingFace,Machine Learning Ops,Update and Explore Datasets,53,5,Success
+2026-05-15,Kaggle,Data Science,Explore and Update Datasets,14,4,Completed
+2026-05-15,MonkeyType,Typing Proficiency,Speed Typing Training and Test,14,15,Success
+2026-05-16,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,579,3,Completed
+2026-05-16,Mimo,Full-Stack Development,Tag and Class,54,5,Completed
+2026-05-16,TryHackMe,Cybersecurity,Putting it all together,54,9,In-Progress
+2026-05-16,Khan Academy,STEM Education,Junior Grade Math Review,15,2,In-Progress
+2026-05-16,Brilliant.org,Problem Solving,Loop-w-Logic-Tappy-Insight,15,3,Completed
+2026-05-16,Daily.dev,Articles & News,Explore and Read Articles,15,27,Completed
+2026-05-16,GitHub,DevOps & Version Control,Repository Update,54,25,Success
+2026-05-16,LeetCode,Data Structures & Algorithms,Find Minimum in Rotated Sorted Array II,15,13,Solved
+2026-05-16,HuggingFace,Machine Learning Ops,Update and Explore Datasets,54,6,Success
+2026-05-16,Kaggle,Data Science,Explore and Update Datasets,15,4,Completed
+2026-05-16,MonkeyType,Typing Proficiency,Speed Typing Training and Test,15,19,Success
+2026-05-17,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,580,5,Completed
+2026-05-17,Mimo,Full-Stack Development,Query Selector All,55,4,Completed
+2026-05-17,TryHackMe,Cybersecurity,Putting it all together,55,8,Completed
+2026-05-17,Khan Academy,STEM Education,Junior Grade Math Review,16,3,In-Progress
+2026-05-17,Brilliant.org,Problem Solving,Loop-w-Logic-Tappy-Insight,16,4,Completed
+2026-05-17,Daily.dev,Articles & News,Explore and Read Articles,16,29,Completed
+2026-05-17,GitHub,DevOps & Version Control,Repository Update,55,23,Success
+2026-05-17,LeetCode,Data Structures & Algorithms,Jump Game III,16,11,Solved
+2026-05-17,HuggingFace,Machine Learning Ops,Update and Explore Datasets,55,7,Success
+2026-05-17,Kaggle,Data Science,Explore and Update Datasets,16,3,Completed
+2026-05-17,MonkeyType,Typing Proficiency,Speed Typing Training and Test,16,11,Success
+2026-05-18,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,581,4,Completed
+2026-05-18,Mimo,Full-Stack Development,Dynamic Webpages Practice,56,3,Completed
+2026-05-18,TryHackMe,Inside a Computer System,56,11,In-Progress
+2026-05-18,Khan Academy,STEM Education,Junior Grade Math Review,17,4,In-Progress
+2026-05-18,Brilliant.org,Problem Solving,Rec-Patterns-Tappy-Insight,17,6,Completed
+2026-05-18,Daily.dev,Articles & News,Explore and Read Articles,17,26,Completed
+2026-05-18,GitHub,DevOps & Version Control,Repository Update,56,28,Success
+2026-05-18,LeetCode,Data Structures & Algorithms,Jump Game IV,17,15,Solved
+2026-05-18,HuggingFace,Machine Learning Ops,Update and Explore Datasets,56,9,Success
+2026-05-18,Kaggle,Data Science,Explore and Update Datasets,17,4,Completed
+2026-05-18,MonkeyType,Typing Proficiency,Speed Typing Training and Test,17,10,Success
+2026-05-19,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,582,7,Completed
+2026-05-19,Mimo,Full-Stack Development,Building Buttons,57,5,Completed
+2026-05-19,TryHackMe,Cybersecurity,Inside a Computer System,57,9,Completed
+2026-05-19,Khan Academy,STEM Education,Junior Grade Math Review,18,3,In-Progress
+2026-05-19,Brilliant.org,Problem Solving,Recog-Patt-Tapp-Insight,18,3,Completed
+2026-05-19,Daily.dev,Articles & News,Explore and Read Articles,18,24,Completed
+2026-05-19,GitHub,DevOps & Version Control,Repository Update,57,23,Success
+2026-05-19,LeetCode,Data Structures & Algorithms,Minimum Common Value,18,12,Solved
+2026-05-19,HuggingFace,Machine Learning Ops,Update and Explore Datasets,57,7,Success
+2026-05-19,Kaggle,Data Science,Explore and Update Datasets,18,6,Completed
+2026-05-19,MonkeyType,Typing Proficiency,Speed Typing Training and Test,18,22,Success
+2026-05-20,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,583,4,Completed
+2026-05-20,Mimo,Full-Stack Development,Gathering Input,58,4,Completed
+2026-05-20,TryHackMe,Cybersecurity,Windows Basics,58,6,In-Progress
+2026-05-20,Khan Academy,STEM Education,Junior Grade Math Review,19,2,In-Progress
+2026-05-20,Brilliant.org,Problem Solving,Recog-Patt-Tapp-Insight-1,19,2,Completed
+2026-05-20,Daily.dev,Articles & News,Explore and Read Articles,19,23,Completed
+2026-05-20,GitHub,DevOps & Version Control,Repository Update,58,21,Success
+2026-05-20,LeetCode,Data Structures & Algorithms,Find the Prefix Common Array of Two Arrays,19,15,Solved
+2026-05-20,HuggingFace,Machine Learning Ops,Update and Explore Datasets,58,8,Success
+2026-05-20,Kaggle,Data Science,Explore and Update Datasets,19,4,Completed
+2026-05-20,MonkeyType,Typing Proficiency,Speed Typing Training and Test,19,18,Success
+2026-05-21,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,584,5,Completed
+2026-05-21,Mimo,Full-Stack Development,Interacting with Input Elements,59,3,Completed
+2026-05-21,TryHackMe,Cybersecurity,Windows Basics,59,11,Completed
+2026-05-21,Khan Academy,STEM Education,Junior Grade Math Review,20,3,In-Progress
+2026-05-21,Brilliant.org,Problem Solving,Choosing-Cond-Tappy-Insight,20,3,Completed
+2026-05-21,Daily.dev,Articles & News,Explore and Read Articles,20,27,Completed
+2026-05-21,GitHub,DevOps & Version Control,Repository Update,59,23,Success
+2026-05-21,LeetCode,Data Structures & Algorithms,Find the Length of the Longest Common Prefix,20,13,Solved
+2026-05-21,HuggingFace,Machine Learning Ops,Update and Explore Datasets,59,7,Success
+2026-05-21,Kaggle,Data Science,Explore and Update Datasets,20,3,Completed
+2026-05-21,MonkeyType,Typing Proficiency,Speed Typing Training and Test,20,12,Success
+2026-05-22,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,585,4,Completed
+2026-05-22,Mimo,Full-Stack Development,HTML Intermediate,60,2,Completed
+2026-05-22,TryHackMe,Cybersecurity,Guided Pentest: Web,60,13,In-Progress
+2026-05-22,Khan Academy,STEM Education,Junior Grade Math Review,21,4,In-Progress
+2026-05-22,Brilliant.org,Problem Solving,Choosing-Cond-Tappy-Insight,21,2,Completed
+2026-05-22,Daily.dev,Articles & News,Explore and Read Articles,21,24,Completed
+2026-05-22,GitHub,DevOps & Version Control,Repository Update,60,26,Success
+2026-05-22,LeetCode,Data Structures & Algorithms,Search in Rotated Sorted Array,21,15,Solved
+2026-05-22,HuggingFace,Machine Learning Ops,Update and Explore Datasets,60,5,Success
+2026-05-22,Kaggle,Data Science,Explore and Update Datasets,21,4,Completed
+2026-05-22,MonkeyType,Typing Proficiency,Speed Typing Training and Test,21,11,Success
+2026-05-23,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,586,3,Completed
+2026-05-23,Mimo,Full-Stack Development,Attribute Changing,61,4,Completed
+2026-05-23,TryHackMe,Cybersecurity,Guided Pentest: Infrastructure,61,15,In-Progress
+2026-05-23,Khan Academy,STEM Education,Junior Grade Math Review,22,3,In-Progress
+2026-05-23,Brilliant.org,Problem Solving,Choosing-Cond-Tappy-Insight-2,22,3,Completed
+2026-05-23,Daily.dev,Articles & News,Explore and Read Articles,22,22,Completed
+2026-05-23,GitHub,DevOps & Version Control,Repository Update,61,30,Success
+2026-05-23,LeetCode,Data Structures & Algorithms,Check if Array is Sorted and Rotated,22,18,Solved
+2026-05-23,HuggingFace,Machine Learning Ops,Update and Explore Datasets,61,9,Success
+2026-05-23,Kaggle,Data Science,Explore and Update Datasets,22,6,Completed
+2026-05-23,MonkeyType,Typing Proficiency,Speed Typing Training and Test,22,13,Success
+2026-05-24,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,587,5,Completed
+2026-05-24,Mimo,Full-Stack Development,Style Object,62,3,Completed
+2026-05-24,TryHackMe,Cybersecurity,Guided Pentest: Infrastructure,62,18,Completed
+2026-05-24,Khan Academy,STEM Education,Junior Grade Math Review,23,4,In-Progress
+2026-05-24,Brilliant.org,Problem Solving,Nesting-Loops-Tap-Insight-2,23,2,Completed
+2026-05-24,Daily.dev,Articles & News,Explore and Read Articles,23,21,Completed
+2026-05-24,GitHub,DevOps & Version Control,Repository Update,62,26,Success
+2026-05-24,LeetCode,Data Structures & Algorithms,Jump Game V,23,14,Solved
+2026-05-24,HuggingFace,Machine Learning Ops,Update and Explore Datasets,62,7,Success
+2026-05-24,Kaggle,Data Science,Explore and Update Datasets,23,4,Completed
+2026-05-24,MonkeyType,Typing Proficiency,Speed Typing Training and Test,23,43,Success
+2026-05-25,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,588,4,Completed
+2026-05-25,Mimo,Full-Stack Development,Get and Set Attributes with Methods,63,4,Completed
+2026-05-25,TryHackMe,Cybersecurity,Guided Pentest: Web,63,24,Completed
+2026-05-25,Khan Academy,STEM Education,Junior Grade Math Review,24,3,In-Progress
+2026-05-25,Brilliant.org,Problem Solving,Nesting-Loops-Tap-Insight,24,4,Completed
+2026-05-25,Daily.dev,Articles & News,Explore and Read Articles,24,16,Completed
+2026-05-25,GitHub,DevOps & Version Control,Repository Update,63,23,Success
+2026-05-25,LeetCode,Data Structures & Algorithms,Jump Game VII,24,12,Solved
+2026-05-25,HuggingFace,Machine Learning Ops,Update and Explore Datasets,63,6,Success
+2026-05-25,Kaggle,Data Science,Explore and Update Datasets,24,3,Completed
+2026-05-25,MonkeyType,Typing Proficiency,Speed Typing Training and Test,24,17,Success
