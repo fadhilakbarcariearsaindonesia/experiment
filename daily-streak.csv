@@ -372,7 +372,7 @@ Date,Platform,Category,Activity_Name,Streak,Duration_Min,Status
 2026-05-17,MonkeyType,Typing Proficiency,Speed Typing Training and Test,16,11,Success
 2026-05-18,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,581,4,Completed
 2026-05-18,Mimo,Full-Stack Development,Dynamic Webpages Practice,56,3,Completed
-2026-05-18,TryHackMe,Inside a Computer System,56,11,In-Progress
+2026-05-18,TryHackMe,Cybersecurity,Inside a Computer System,56,11,In-Progress
 2026-05-18,Khan Academy,STEM Education,Junior Grade Math Review,17,4,In-Progress
 2026-05-18,Brilliant.org,Problem Solving,Rec-Patterns-Tappy-Insight,17,6,Completed
 2026-05-18,Daily.dev,Articles & News,Explore and Read Articles,17,26,Completed
@@ -469,3 +469,14 @@ Date,Platform,Category,Activity_Name,Streak,Duration_Min,Status
 2026-05-26,HuggingFace,Machine Learning Ops,Update and Explore Datasets,64,5,Success
 2026-05-26,Kaggle,Data Science,Explore and Update Datasets,25,4,Completed
 2026-05-26,MonkeyType,Typing Proficiency,Speed Typing Training and Test,25,15,Success
+2026-05-27,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,590,6,Completed
+2026-05-27,Mimo,Full-Stack Development,Select,65,5,Completed
+2026-05-27,TryHackMe,Cybersecurity,Dive Into Pentesting,65,7,Completed
+2026-05-27,Khan Academy,STEM Education,Junior Grade Math Review,26,6,In-Progress
+2026-05-27,Brilliant.org,Problem Solving,Combining-Loops,26,6,Completed
+2026-05-27,Daily.dev,Articles & News,Explore and Read Articles,26,25,Completed
+2026-05-27,GitHub,DevOps & Version Control,Repository Update,65,26,Success
+2026-05-27,LeetCode,Data Structures & Algorithms,Count the Number of Special Characters II,26,21,Solved
+2026-05-27,HuggingFace,Machine Learning Ops,Update and Explore Datasets,65,10,Success
+2026-05-27,Kaggle,Data Science,Explore and Update Datasets,26,5,Completed
+2026-05-27,MonkeyType,Typing Proficiency,Speed Typing Training and Test,26,20,Success
