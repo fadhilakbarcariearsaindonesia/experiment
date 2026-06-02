@@ -1,6 +1,6 @@
 # Global Fictional Names Dataset
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg?style=flat-square)](#)
-[![License: CC-BY-4.0](https://img.shields.io/badge/License-CC-BY-4.0-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![License: CC-BY-4.0](https://img.shields.io/badge/License-CC-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Active%20Project-green.svg?style=flat-square)](#)
 
 Copyright-free multi-nationality naming dataset.
