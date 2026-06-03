@@ -514,7 +514,7 @@ Date,Platform,Category,Activity_Name,Streak,Duration_Min,Status
 2026-05-30,Kaggle,Data Science,Explore and Update Datasets,29,6,Completed
 2026-05-30,MonkeyType,Typing Proficiency,Speed Typing Training and Test,29,11,Success
 2026-05-31,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,594,5,Completed
-2026-05-31,Mimo,Full-Stack Development,Practice,69,4,Completed
+2026-05-31,Mimo,Full-Stack Development,Ordered Lists,69,4,Completed
 2026-05-31,TryHackMe,Cybersecurity,Active Reconnaissance,69,7,Completed
 2026-05-31,Khan Academy,STEM Education,Junior Grade Math Review,30,3,In-Progress
 2026-05-31,Brilliant.org,Problem Solving,Thinking-in-Code-Level-2,30,5,Completed
@@ -525,7 +525,7 @@ Date,Platform,Category,Activity_Name,Streak,Duration_Min,Status
 2026-05-31,Kaggle,Data Science,Explore and Update Datasets,30,3,Completed
 2026-05-31,MonkeyType,Typing Proficiency,Speed Typing Training and Test,30,14,Success
 2026-06-01,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,595,3,Completed
-2026-06-01,Mimo,Full-Stack Development,Practice,70,3,Completed
+2026-06-01,Mimo,Full-Stack Development,Unordered Lists,70,3,Completed
 2026-06-01,TryHackMe,Cybersecurity,Nmap Live Host Discovery,70,6,In-Progress
 2026-06-01,Khan Academy,STEM Education,Junior Grade Math Review,31,2,In-Progress
 2026-06-01,Brilliant.org,Problem Solving,Using-if-Statements-Tap-Ins,31,3,Completed
@@ -536,7 +536,7 @@ Date,Platform,Category,Activity_Name,Streak,Duration_Min,Status
 2026-06-01,Kaggle,Data Science,Explore and Update Datasets,31,4,Completed
 2026-06-01,MonkeyType,Typing Proficiency,Speed Typing Training and Test,31,9,Success
 2026-06-02,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,596,6,Completed
-2026-06-02,Mimo,Full-Stack Development,Practice,71,5,Completed
+2026-06-02,Mimo,Full-Stack Development,Nested Lists,71,5,Completed
 2026-06-02,TryHackMe,Cybersecurity,Nmap Live Host Discovery,71,9,In-Progress
 2026-06-02,Khan Academy,STEM Education,Junior Grade Math Review,32,4,In-Progress
 2026-06-02,Brilliant.org,Problem Solving,Using-if-Statements-Set3,32,2,Completed
@@ -546,3 +546,14 @@ Date,Platform,Category,Activity_Name,Streak,Duration_Min,Status
 2026-06-02,HuggingFace,Machine Learning Ops,Update and Explore Datasets,71,8,Success
 2026-06-02,Kaggle,Data Science,Explore and Update Datasets,32,4,Completed
 2026-06-02,MonkeyType,Typing Proficiency,Speed Typing Training and Test,32,6,Success
+2026-06-03,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,597,5,Completed
+2026-06-03,Mimo,Full-Stack Development,Inline and Block Elements,72,3,Completed
+2026-06-03,TryHackMe,Cybersecurity,Nmap Live Host Discovery,72,8,Completed
+2026-06-03,Khan Academy,STEM Education,Junior Grade Math Review,33,2,In-Progress
+2026-06-03,Brilliant.org,Problem Solving,Using-if-Statements-Set2,33,3,Completed
+2026-06-03,Daily.dev,Articles & News,Explore and Read Articles,7,22,Completed
+2026-06-03,GitHub,DevOps & Version Control,Repository Update,72,26,Success
+2026-06-03,LeetCode,Data Structures & Algorithms,Earliest Finish Time for Land and Water Rides II,33,13,Solved
+2026-06-03,HuggingFace,Machine Learning Ops,Update and Explore Datasets,72,8,Success
+2026-06-03,Kaggle,Data Science,Explore and Update Datasets,33,4,Completed
+2026-06-03,MonkeyType,Typing Proficiency,Speed Typing Training and Test,33,6,Success
