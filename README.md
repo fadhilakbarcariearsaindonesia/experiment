@@ -25,5 +25,6 @@ graph TD
 
 Links
 https://huggingface.co/fadhilakbar
+https://www.kaggle.com/fadhilakbarcariearsa
 ## License
 Distributed under the CC-BY-4.0 License. This is an open-source contribution to the developer community by Fadhil Akbar Cariearsa.
